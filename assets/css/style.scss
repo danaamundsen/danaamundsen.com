@@ -1,31 +1,87 @@
 ---
 ---
 
+/* Theme */
+
 @import "{{ site.theme }}";
 
+/* Google Fonts */
+
+{% if site.google_fonts == 'yes' %}
 @import url('https://fonts.googleapis.com/css2?family={{ site.body_font }}&family={{ site.header_font }}&display=swap');
+{% endif %}
+
+/* Basic Styling */
 
 body {
-  background: #e2dac2;
-  color: #2b272e;
-  font-family: '{{ site.body_font }}', sans-serif;
+  font-family: {{ site.body_font }}, sans-serif;
+  background: {{ site.background_color }}; 
+  color: {{ site.font_color }};
 }
 
 h1, h2, h3 {
-  font-family: '{{ site.header_font }}', serif;
-  color: #2b272e;
+  font-family: {{ site.header_font }}, serif;
+  color: {{ site.color1 }};
 }
 
 a {
-  color: #2b272e;
+  font-weight: 400;
+  color: {{ site.color1 }};
   text-decoration: underline;
 }
 
-a:hover {
-  color: #c47ac0;
-  font-weight: 400;
-  text-decoration: underline;
+a:hover, a:active, a:focus {
+  font-weight: inherit;
+  color: {{ site.color2 }};
+  text-decoration: none;
 }
+
+h1 a, h2 a, h3 a{
+  font-weight: 600;
+}
+
+hr {
+  border: 0;
+  background: {{ site.color1 }};
+  height: 1px;
+  width: 50%;
+  margin: 24px auto;
+}
+
+/* Menu */
+
+ul.menu {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Tags */
+
+ul.tag {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+li a.tag_name {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 3px 8px;
+  font-style: italic;
+  text-decoration: underline;
+  color: {{ site.color1 }};
+}
+
+li a.tag_name:hover {
+  text-decoration: none;
+  background-color: {{ site.color2 }};
+  color: {{ site.background_color }};
+}
+
+/* layout */
 
 .wrapper {
   margin: 0px;
@@ -35,3 +91,10 @@ section {
   width: 570px;
 }
 
+@media print, screen and (max-width: 960px) {
+  
+  section {
+    border: 0px
+  }
+  
+}
