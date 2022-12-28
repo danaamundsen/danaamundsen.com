@@ -18,9 +18,9 @@ title: tags
     <p id="{{ tag[0] | slugify }}"><b>#{{ tag[0] }}</b></p>
 
 	<ul>
-       {% for post in tag[1] %}
-	<li><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a> {{ post.date | date: "%D" }}</li>
-	{% endfor %}
+          {% for post in tag[1] %}
+	  <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.image }}&w=200&h=200&output=jpg&q=65" alt="{{ post.desc }}"/></a></li>
+          {% endfor %}
 	</ul>
 
     {% endfor %}
