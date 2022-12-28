@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morris and Co. Patterns
-image: /post/2022/2022-12-1-tile.png
+img: /post/2022/2022-12-1-tile.png
 desc: ["A floral pattern in muted colors."]
 tags: ["victorian", "design"]
 publish: true
