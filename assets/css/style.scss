@@ -3,16 +3,16 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Libre+Franklin&display=swap');
 
 body {
   background: #e2dac2;
   color: #2b272e;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 h1, h2, h3 {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Berkshire Swash', cursive;
   color: #c47ac0;
 }
 
