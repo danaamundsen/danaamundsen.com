@@ -3,52 +3,26 @@ layout: default
 ---
 
 <h1>About</h1>
-<p>Dana Amundsen is an artist that creates a wide range of stories and illustrations. Dana writes humorous comics about her day to day lif ein black and white line drawings, and she also writes fantasy and historical graphic novels and creates illustrations in full color. Her work has been features in magazines and books.
+  <p>Dana Amundsen is an artist that creates a wide range of stories and illustrations. Dana writes humorous comics about her day to day lif ein black and white line drawings, and she also writes fantasy and historical graphic novels and creates illustrations in full color. Her work has been features in magazines and books.
 
-  {% for post in paginator.posts %}
-      
+<h1>Most Recent Update</h1>
+  
+  {% for post in site.posts limit:1 %}
+
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      
-        {{ post.excerpt }}
-      
-      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> | Date: {{ post.date | date: "%D" }} | 
-  {% if post %}
-    {% assign tags = post.tags %}
-  {% else %}
-    {% assign tags = page.tags %}
-  {% endif %}
-  {% for tag in tags %}
-  <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-        | <a href="{{ site.baseurl }}{{ post.url }}#comments">Comments</a></small>
-      
-  <hr></hr>
-  {% endfor %}
+ 
+      <!-- author icons -->
 
-<!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
-<center><p>
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
+      {% if post.author == 'Dana' %}
+      <img src="/assets/img/icon_d.png" width="60" align="left" alt="A black line drawing of a cat's face">
+      {% endif %}
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
+      {% if post.author == 'Alex' %}
+      <img src="/assets/img/icon_a.png" width="60" align="left" alt="A black line drawing of a bunny's face">
+      {% endif %}
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-  </p></center>
-{% endif %}
+      {{ post.excerpt }}
+
+      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }}</small>
+
+   {% endfor %}
