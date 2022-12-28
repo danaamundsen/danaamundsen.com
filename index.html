@@ -11,10 +11,6 @@ layout: default
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      {% if post.img %}
-        <a href="{{ site.img_base_url }}{{ post.img }}" title="Fullsize"><img src="{{ site.img_base_url }}{{ post.img }}" alt="{{ site.desc }}"></a>
-      {% endif %}
-
       {{ post.excerpt }}
 
       <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }}</small>
