@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Morris and Co. Patterns
-image: post/2022/2022-12-1-tile.png
+image: /post/2022/2022-12-1-tile.png
 desc: ["A floral pattern in muted colors."]
 tags: ["victorian", "design"]
 publish: true
 ---
 
-<a href="{{ site.img_base_url }}2022-12-1-tile.png" title="Fullsize"><img src="{{ site.img_base_url }}2022-12-1-tile.png" alt="A floral pattern in muted colors. The overall shape is an hourglass of vines with flowers and leaves interlaced inside them."></a>
+<a href="{{ site.img_base_url }}/post/2022/2022-12-1-tile.png" title="Fullsize"><img src="{{ site.img_base_url }}/post/2022/2022-12-1-tile.png" alt="A floral pattern in muted colors. The overall shape is an hourglass of vines with flowers and leaves interlaced inside them."></a>
 
-<a href="{{ site.img_base_url }}2022-12-1-diagonal-tile.png" title="Fullsize"><img src="{{ site.img_base_url }}2022-12-1-diagonal-tile.png" alt="A floral pattern on a diagonal. A flower wraps around a banner that runs diagonally with small leaves and flower shapes filling in the negative space of the pattern."></a>
+<a href="{{ site.img_base_url }}/post/2022/2022-12-1-diagonal-tile.png" title="Fullsize"><img src="{{ site.img_base_url }}/post/2022/2022-12-1-diagonal-tile.png" alt="A floral pattern on a diagonal. A flower wraps around a banner that runs diagonally with small leaves and flower shapes filling in the negative space of the pattern."></a>
 
 I'm planning to update my websites and I wanted to give them a Victorian inspired design since I've been very into Victorian clothing and history recently.
 
@@ -24,7 +24,7 @@ I found this tutorial, [Making Repeating Patterns in Clip Studio Paint](https://
 
 I recorded a timelapse of this one. You can see that I started with a looser interpretation in black and white. I was planning to fill and color the lines but the pattern didn't turn out the way I wanted so I scrapped it and tried again with color from the start. It seemed to work better, and the result was more true to the original this time.
 
-<a href="{{ site.img_base_url }}2022-12-1-tile.gif" title="Fullsize"><img src="{{ site.img_base_url }}2022-12-1-tile.gif" alt="A timelapse gif of the first pattern being drawn in Clip Studio."></a>
+<a href="{{ site.img_base_url }}/post/2022/2022-12-1-tile.gif" title="Fullsize"><img src="{{ site.img_base_url }}post/2022/2022-12-1-tile.gif" alt="A timelapse gif of the first pattern being drawn in Clip Studio."></a>
 
 The next one I wanted to make was this beautiful diagonal pattern.
 
