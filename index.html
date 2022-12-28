@@ -5,14 +5,14 @@ layout: default
 <h1>About</h1>
   <p>Dana Amundsen is an artist that creates a wide range of stories and illustrations. Dana writes humorous comics about her day to day lif ein black and white line drawings, and she also writes fantasy and historical graphic novels and creates illustrations in full color. Her work has been features in magazines and books.
 
-<h1>Most Recent Update</h1>
+<h1>From the Blog</h1>
   
-  {% for post in site.posts limit:1 %}
+  {% for post in site.posts limit:5 %}
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-      {{ post.excerpt }}
-
-      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }}</small>
+      {% if post.img %}
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=100&h=100&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a>
+    {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="/assets/img/blank.png" alt="Logo" class="thumb"></a>
+    {% endif %}
 
    {% endfor %}
