@@ -12,5 +12,9 @@ plugins:
 
 body_font: Karla #font used for body text
 header_font: Chivo Mono #font used for title and header
+background_color: "#F0EEE9"
+font_color: "#28282D"
+color1: "#6667AB" #color of links and headers
+color2: "#615C61" #color of links on hover
 
 img_base_url: http://danaamundsen.site44.com
