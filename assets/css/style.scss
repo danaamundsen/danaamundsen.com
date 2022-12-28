@@ -13,13 +13,21 @@ body {
 
 h1, h2, h3 {
   font-family: 'Berkshire Swash', cursive;
-  color: #c47ac0;
+  color: #2b272e;
 }
 
 a {
-  color: #c47ac0;
+  color: #2b272e;
+  text-decoration: underline;
 }
 
 a:hover {
-  color: #71a8d1;
+  color: #c47ac0;
+  font-weight: 400;
+  text-decoration: underline;
 }
+
+.wrapper {
+  margin-left: 0px;
+}
+
