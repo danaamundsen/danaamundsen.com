@@ -24,7 +24,7 @@ I found this tutorial, [Making Repeating Patterns in Clip Studio Paint](https://
 
 I recorded a timelapse of this one. You can see that I started with a looser interpretation in black and white. I was planning to fill and color the lines but the pattern didn't turn out the way I wanted so I scrapped it and tried again with color from the start. It seemed to work better, and the result was more true to the original this time.
 
-<a href="{{ site.img_base_url }}/post/2022/2022-12-1-tile.gif" title="Fullsize"><img src="{{ site.img_base_url }}post/2022/2022-12-1-tile.gif" alt="A timelapse gif of the first pattern being drawn in Clip Studio."></a>
+<a href="{{ site.img_base_url }}/post/2022/2022-12-1-tile.gif" title="Fullsize"><img src="{{ site.img_base_url }}/post/2022/2022-12-1-tile.gif" alt="A timelapse gif of the first pattern being drawn in Clip Studio."></a>
 
 The next one I wanted to make was this beautiful diagonal pattern.
 
