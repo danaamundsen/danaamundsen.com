@@ -1,0 +1,28 @@
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Google Analytics -->
+{% include head-custom-google-analytics.html %}
+
+<!-- favicon  -->
+{% if site.favicon %}
+<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon }}">
+{% endif %}
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family={{ site.body_font }}&family={{ site.header_font }}&display=swap" rel="stylesheet">
+
+<!-- Meta Data -->
+<meta name="twitter:card" content="summary" />
+<meta property="og:url" content="{{ page.url }}" />
+{% if page.title %}
+<meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
+{% else %}
+<meta name="twitter:title" content="{{ site.title }} | {{site.description}}">
+{% endif %}
+<meta property="og:description" content="{{ site.description }}" />
+{% if site.logo %}
+<meta property="og:image" content="{{ site.logo }}" />
+{% endif %}
+
+<!-- end custom head snippets -->
