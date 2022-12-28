@@ -7,9 +7,7 @@
 
 /* Google Fonts */
 
-{% if site.google_fonts == 'yes' %}
 @import url('https://fonts.googleapis.com/css2?family={{ site.body_font }}&family={{ site.header_font }}&display=swap');
-{% endif %}
 
 /* Basic Styling */
 
