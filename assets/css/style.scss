@@ -79,6 +79,12 @@ li a.tag_name:hover {
   color: {{ site.background_color }};
 }
 
+.thumb {
+  border-radius: 5px;
+  width: 100px;
+  height: 100px;
+}
+
 /* layout */
 
 .wrapper {
