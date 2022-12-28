@@ -19,7 +19,7 @@ title: Tags
 
 	<ul>
           {% for post in tag[1] %}
-	  <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=200&h=200&fit=cover&output=png" alt="{{ post.desc }}"/></a></li>
+	  <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=100&h=100&fit=cover&output=png" alt="{{ post.desc }}"/></a></li>
           {% endfor %}
 	</ul>
 
