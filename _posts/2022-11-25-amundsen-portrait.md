@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Roald Amundsen Portrait
-image: 2022-11-23-amundsen-portrait.png
+img: /post/2022/2022-11-23-amundsen-portrait.png
 desc: ["An ink and watercolor portrait of a man with an upturned moustache in a double breasted suit."]
 tags: ["victorian", "polar exploration"]
-comments: true
 published: true
 ---
 
