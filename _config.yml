@@ -4,8 +4,11 @@ description: Artist and Web Developer
 google_analytics: 
 theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
+paginate: 5
+paginate_path: "/blog/page:num/"
 plugins: 
   - jekyll-feed
+  - jekyll-paginate
 
 body_font: Karla #font used for body text
 header_font: Chivo Mono #font used for title and header
