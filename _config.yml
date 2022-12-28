@@ -9,3 +9,6 @@ paginate_path: "/page:num/"
 plugins: 
   - jekyll-paginate
   - jekyll-feed
+
+body_font: Karla #font used for body text
+header_font: Chivo Mono #font used for title and header
