@@ -3,9 +3,16 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Special+Elite&display=swap');
+
 body {
   background: #241C21;
   color: #F2D8C9;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Special Elite', cursive;
 }
 
 a {
