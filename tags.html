@@ -18,9 +18,9 @@ title: Tags
   <p id="{{ tag[0] | slugify }}"><b>#{{ tag[0] }}</b></p>
   {% for post in tag[1] %}
     {% if post.img %}
-      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=100&h=100&fit=cover&output=png" alt="{{ post.desc }}" style="border-radius: 5px;"></a>
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=100&h=100&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a>
     {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://www.icefairy.net/meta/icefairy.png" alt="Logo" style="border-radius: 5px;"></a>
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="/assets/img/blank.png" alt="Logo" class="thumb"></a>
     {% endif %}
   {% endfor %}
 {% endfor %}
