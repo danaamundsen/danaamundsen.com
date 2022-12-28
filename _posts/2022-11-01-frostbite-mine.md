@@ -1,10 +1,9 @@
 ---
 layout: post
 title: you're mine
-image: 2022-10-06-mine.png
+img: /post/2022/2022-10-06-mine.png
 desc: ["A man and woman's heads next to each other in period dress"]
 tags: ["frostbite"]
-comments: true
 published: true
 ---
 
