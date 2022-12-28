@@ -1,10 +1,9 @@
 ---
 layout: post
 title: The Terror painting studies
-image: 2022-11-16-terror-study1.png
+img: /post/2022/2022-11-16-terror-study1.png
 desc: ["a rough digital painting of two men walking in a corridor of ice in the arctic summer."]
 tags: ["studies", "polar exploration"]
-comments: true
 published: true 
 ---
 
