@@ -3,16 +3,16 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Libre+Franklin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family={{ site.body_font }}&family={{ site.header_font }}&display=swap');
 
 body {
   background: #e2dac2;
   color: #2b272e;
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: '{{ site.body_font }}', sans-serif;
 }
 
 h1, h2, h3 {
-  font-family: 'Berkshire Swash', cursive;
+  font-family: '{{ site.header.font }}', cursive;
   color: #2b272e;
 }
 
