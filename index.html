@@ -10,16 +10,6 @@ layout: default
   {% for post in site.posts limit:1 %}
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
- 
-      <!-- author icons -->
-
-      {% if post.author == 'Dana' %}
-      <img src="/assets/img/icon_d.png" width="60" align="left" alt="A black line drawing of a cat's face">
-      {% endif %}
-
-      {% if post.author == 'Alex' %}
-      <img src="/assets/img/icon_a.png" width="60" align="left" alt="A black line drawing of a bunny's face">
-      {% endif %}
 
       {{ post.excerpt }}
 
