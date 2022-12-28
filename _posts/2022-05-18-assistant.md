@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "him? he's my assistant."
-image: 2022-05-18-assistant.png
+img: /post/2022/2022-05-18-assistant.png
 desc: ["Seo Dong-jae with his elbow propped on Hwang Si-mok's shoulder"]
 tags: ["stranger"]
-comments: true
 ---
 
 ![seo dong-jae with his elbow propped on hwang si-mok's shoulder](http://www.icefairy.net/artlog/2022-05-18-assistant.png)
