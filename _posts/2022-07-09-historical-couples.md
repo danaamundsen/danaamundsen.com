@@ -1,11 +1,10 @@
 ---
 layout: post
 title: historical fashion studies
-image: 2022-07-06-historical-couples1.png
+img: /post/2022/2022-07-06-historical-couples1.png
 desc: ["A couple in dress from the 1830s in Europe."]
 tags: ["victorian", "studies"]
 published: true
-comments: true
 ---
 
 ![a couple in dress from the 1830s in europe. the woman is wearing a dress with a v-shaped bodice which exposes the shoulders and nips in at the waist. the skirt is a full bell shape that falls to the floor. her hair is in tight curls on the side of her head and pulled up in the back. flowers decorate her hhair and dress. the man is wearing a jacket with padded shoulders with long tails, a vest, blouse and tie, and plaeted stirrup pants.](http://www.icefairy.net/artlog/2022-07-06-historical-couples1.png)
