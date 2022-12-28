@@ -5,6 +5,10 @@ layout: default
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 <h2>{{ page.title }}</h2>
 
+{% if post.img %}
+   <a href="{{ site.img_base_url }}{{ post.img }}" title="Fullsize"><img src="{{ site.img_base_url }}{{ post.img }}" alt="{{ site.desc }}"></a>
+{% endif %}
+
 {{content}}
 
   <small> tags: {% if post %}
