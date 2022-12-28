@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Bryce Quinlan
-image: 2022-06-17-bryce-quinlan.png
+img: /post/2022/2022-06-17-bryce-quinlan.png
 desc: ["A drawing of Bryce Quinlan."]
 tags: ["sarah j maas"]
-comments: true
 ---
 
 ![two drawings of bryce quinlan, one is of bryce in a party dress leaning against a bar and the second is of bryce in workout gear twirling her ponytail around her wrist.](http://www.icefairy.net/artlog/2022-06-17-bryce-quinlan.png)
