@@ -12,3 +12,5 @@ plugins:
 
 body_font: Karla #font used for body text
 header_font: Chivo Mono #font used for title and header
+
+img_base_url: http://danaamundsen.site44.com/
