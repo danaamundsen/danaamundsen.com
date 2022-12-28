@@ -5,7 +5,7 @@ layout: default
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 <h2>{{ page.title }}</h2>
 
-<img src="{{ site.img_base_url }}{{ page.img }}">
+<a href="{{ site.img_base_url }}{{ page.img }}" title="fullsize"><img src="{{ site.img_base_url }}{{ page.img }}" alt="{{ page.desc }}"></a>
 
 {{content}}
 
