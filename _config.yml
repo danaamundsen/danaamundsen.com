@@ -1,1 +1,12 @@
-
+title: Dana Amundsen
+logo: /assets/img/logo.png
+favicon: /assets/img/favicon.png
+description: Artist and Web Developer
+google_analytics: 
+theme: jekyll-theme-minimal
+excerpt_separator: <!-- more -->
+paginate: 5 
+paginate_path: "/page:num/"
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed
