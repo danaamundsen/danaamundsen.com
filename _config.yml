@@ -3,7 +3,7 @@ logo: #/assets/img/logo.png
 description: Artist and Web Developer
 google_analytics: 
 theme: jekyll-theme-minimal
-excerpt_separator: <!-- more -->
+excerpt_separator: <!--more-->
 paginate: 5 
 paginate_path: "/page:num/"
 plugins: 
