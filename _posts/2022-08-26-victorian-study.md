@@ -1,7 +1,7 @@
 ---
 layout: post
 title: elend's study
-image: 2022-08-24-full-study.png
+img: /post/2022/2022-08-24-full-study.png
 desc: ["A 3d model of a victorian study."]
 tags: ["blender", "victorian"]
 comments: true
