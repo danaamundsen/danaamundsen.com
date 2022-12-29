@@ -111,6 +111,8 @@ li a.tag_name:hover {
 
 .wrapper {
   background-color: {{ site.background_color }}; 
+  height: auto;
+  overflow: auto;
 }
 
 @media print, screen and (max-width: 960px) {
