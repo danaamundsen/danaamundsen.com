@@ -80,7 +80,8 @@ li a.submenu_item {
   padding: 3px 8px;
   text-align: center;
   text-decoration: none;
-  background-color: {{ site.color1 }};
+  font-style: italic;
+  background-color: {{ site.color2 }};
   color: {{ site.background_color }};
 }
 
