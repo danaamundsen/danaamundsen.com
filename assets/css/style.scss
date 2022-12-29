@@ -11,6 +11,8 @@
 
 /* Basic Styling */
 
+* { padding: 0px; margin: 0px; }
+
 body {
   font-family: {{ site.body_font }}, sans-serif;
   background-image: url("{{ site.img_base_url }}/assets/tile.png");
@@ -119,11 +121,13 @@ li a.tag_name:hover {
 
 section {
   margin: 0px;
+  padding: 0px;
   padding-right: 10px;
 }
 
 header, footer {
   margin: 0px;
+  padding: 0px;
   padding-left: 10px;
 }
 
