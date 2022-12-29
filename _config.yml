@@ -15,7 +15,10 @@ collections:
     output: true
     title: true
     img: true
-    desc: true
+    alt: true
+    date: true
+    categories: true
+    date: true
 
 body_font: Karla #font used for body text
 header_font: Berkshire Swash #font used for title and header
