@@ -6,11 +6,11 @@ permalink: /portfolio/
 
 <h1>Portfolio</h1>
 
-{% for portfolio in site.portfolio | sort: 'date' %}
+{% for portfolio_item in site.portfolio_items | sort: 'date' %}
 
-<h2>{{ portfolio.title }}</h2>
+<h2>{{ portfolio_item.title }}</h2>
 
-{{ portfolio.content }}
+{{ portfolio_item.content }}
 
 <hr></hr>
 
