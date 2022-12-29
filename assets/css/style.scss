@@ -110,7 +110,7 @@ li a.tag_name:hover {
 
 /* layout */
 
-.wrapper {
+.wrapper::after {
   background-color: {{ site.background_color }}; 
   height: 100%;
   overflow: auto;
@@ -120,7 +120,7 @@ li a.tag_name:hover {
   display: table;
 }
 
-.header {
+/* .header {
   background-image: url("{{ site.img_base_url }}/assets/header.png");
 	width: 100%;
 	height: 75px;
@@ -131,7 +131,7 @@ li a.tag_name:hover {
 	height: 75px;
 	width: 100%;
 }
-
+*/
 section {
   margin: 0px;
   padding: 0px;
