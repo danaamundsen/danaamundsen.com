@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Mistborn
-tags: ["Illustration"]
-img: http://www.danaamundsen.com/portfolio/illus/vinelend.png
-desc: ["Digital Illustration"]
+img: portfolio/vinelend.png
+alt: ["Vin and Elend Venture standing back to back while the spires of Kredik Shaw rise in the distance."]
+date: 2022
+categories: ["Illustration"]
 permalink: /mistborn/
 ---
 
-<a href="http://www.danaamundsen.com/portfolio/illus/vinelend.png" title="Fullsize"><img src="http://www.danaamundsen.com/portfolio/illus/vinelend.png" alt="Digital Illustration"></a>
-
-Vin and Elend Venture from the Mistborn series by Brandon Sanderson.
+Vin and Elend Venture from Brander Sanderson's Mistborn Novels.
