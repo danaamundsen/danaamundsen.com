@@ -11,8 +11,6 @@
 
 /* Basic Styling */
 
-/* * { padding: 0px; margin: 0px; } */
-
 body {
   font-family: {{ site.body_font }}, sans-serif;
   background-image: url("{{ site.img_base_url }}/assets/tile.png");
@@ -117,6 +115,18 @@ li a.tag_name:hover {
   height: 100%;
   overflow: auto;
   margin: 0px auto;
+}
+
+.header {
+  background-image: url("{{ site.img_base_url }}/assets/header.png");
+	width: 100%;
+	height: 75px;
+}
+
+.footer {
+	background-image: url("{{ site.img_base_url }}/assets/footer.png");
+	height: 75px;
+	width: 100%;
 }
 
 section {
