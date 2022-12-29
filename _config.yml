@@ -12,9 +12,9 @@ plugins:
 
 body_font: Libre Baskerville #font used for body text
 header_font: Rye #font used for title and header
-background_color: "#FFFFFF"
-font_color: "#000"
-color1: "#000" #color of links and headers
-color2: "#000" #color of links on hover
+background_color: "#AEA394"
+font_color: "#1A1E1F"
+color1: "#5A462D" #color of links and headers
+color2: "#623923" #color of links on hover
 
 img_base_url: http://danaamundsen.site44.com
