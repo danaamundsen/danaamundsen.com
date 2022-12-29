@@ -14,6 +14,8 @@
 body {
   font-family: {{ site.body_font }}, sans-serif;
   background: {{ site.background_color }}; 
+  background-image: url("{{ site.img_base_url }}/assets/tile.png");
+  background-attachment: fixed;
   color: {{ site.font_color }};
 }
 
@@ -107,10 +109,6 @@ li a.tag_name:hover {
 }
 
 /* layout */
-
-.wrapper {
-  margin: 0px;
-}
 
 @media print, screen and (max-width: 960px) {
   
