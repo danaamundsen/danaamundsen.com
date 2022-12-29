@@ -59,14 +59,13 @@ li a.menu_item {
   padding: 3px 8px;
   text-align: center;
   text-decoration: none;
-  background-color: {{ site.color2 }};
-  color: {{ site.background_color }};
+  color: {{ site.color1 }};
 }
 
 li a.menu_item:hover {
   font-style: italic;
   text-decoration: underline;
-  color: {{ site.color1 }};
+  color: {{ site.font_color }};
 }
 
 ul.submenu {
@@ -81,8 +80,7 @@ li a.submenu_item {
   text-align: center;
   text-decoration: none;
   font-style: italic;
-  background-color: {{ site.color2 }};
-  color: {{ site.background_color }};
+  color: {{ site.color1 }};
 }
 
 li a.submenu_item:hover {
