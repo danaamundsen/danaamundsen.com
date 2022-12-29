@@ -54,10 +54,25 @@ ul.menu {
   padding: 0px;
 }
 
+li a.menu_item {
+  text-decoration: none;
+  background-color: {{ site.color2 }};
+  color: {{ site.background_color }};
+}
+
+li a.menu_item: hover {
+  display: block;
+  text-align: center;
+  padding: 3px 8px;
+  font-style: italic;
+  text-decoration: underline;
+  color: {{ site.color1 }};
+}
+
 ul.submenu {
   list-style-type: none;
   margin: 0px;
-  padding: 0px 12px 0px 0px;
+  padding: 0px;
 }
 
 /* Tags */
