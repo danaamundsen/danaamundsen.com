@@ -56,9 +56,9 @@ ul.menu {
 
 li a.menu_item {
   display: block;
-  padding: 3px 8px;
-  text-align: center;
+  padding: 0px;
   text-decoration: none;
+  font-weight: 600;
   color: {{ site.color1 }};
 }
 
@@ -76,8 +76,7 @@ ul.submenu {
 
 li a.submenu_item {
   display: block;
-  padding: 3px 8px;
-  text-align: center;
+  padding: 0px 8px;
   text-decoration: none;
   font-style: italic;
   color: {{ site.color1 }};
