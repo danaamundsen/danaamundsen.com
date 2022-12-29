@@ -12,7 +12,7 @@ plugins:
 
 body_font: Baskerville Libre #font used for body text
 header_font: Rye #font used for title and header
-background_color: "#fff"
+background_color: "#FFFFFF"
 font_color: "#000"
 color1: "#000" #color of links and headers
 color2: "#000" #color of links on hover
