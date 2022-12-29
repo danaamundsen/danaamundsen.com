@@ -11,7 +11,7 @@ plugins:
   - jekyll-paginate
   
 collections:
-  portfolio:
+  portfolio_items:
     output: true
 
 body_font: Karla #font used for body text
