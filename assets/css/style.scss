@@ -11,11 +11,6 @@
 
 /* Basic Styling */
 
-* {
-  margin: 0px;
-  padding: 0px;
-}
-
 body {
   font-family: {{ site.body_font }}, sans-serif;
   background-image: url("{{ site.img_base_url }}/assets/tile.png");
@@ -116,8 +111,19 @@ li a.tag_name:hover {
 
 .wrapper {
   background-color: {{ site.background_color }}; 
-  height: 100%;
+  height: auto;
   overflow: auto;
+  margin: 0px auto;
+}
+
+section {
+  margin: 0px;
+  padding-right: 10px;
+}
+
+header, footer {
+  margin: 0px;
+  padding-left: 10px;
 }
 
 @media print, screen and (max-width: 960px) {
