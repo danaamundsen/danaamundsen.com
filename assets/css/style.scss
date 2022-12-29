@@ -115,6 +115,9 @@ li a.tag_name:hover {
   height: 100%;
   overflow: auto;
   margin: 0px auto;
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .header {
