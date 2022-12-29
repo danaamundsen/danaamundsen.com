@@ -13,6 +13,7 @@ plugins:
 collections:
   portfolio_items:
     output: true
+    permalink: "/portfolio/:path/"
     title: true
     img: true
     alt: true
