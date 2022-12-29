@@ -5,46 +5,31 @@ title: Blog
 
  <h1>Blog</h1>
 
-    {% for post in paginator.posts %}
+ <!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p>
+    <span>{{ post.date }}</span>
+  </p>
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.content }}
 
-        {{ post.excerpt }}
-
-      <small><a href="{{ site.baseurl }}{{ post.url }}">Permalink</a> | Date: {{ post.date | date: "%D" }} | tags: 
-  {% assign tags = post.tags %}
-  {% for tag in tags %}
-  <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
-  {% unless forloop.last %},&nbsp;{% endunless %}
-        {% endfor %}</small>
-
-  <hr></hr>
-
-  {% endfor %}
+{% endfor %}
 
 <!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
-<center><p>
+
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path }}">
+      Previous
+    </a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span>Previous</span>
   {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
+  <span>
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path }}">Next</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span>Next</span>
   {% endif %}
-  </p></center>
-{% endif %}
