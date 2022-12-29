@@ -11,7 +11,7 @@
 
 /* Basic Styling */
 
-* { padding: 0px; margin: 0px; }
+/* * { padding: 0px; margin: 0px; } */
 
 body {
   font-family: {{ site.body_font }}, sans-serif;
@@ -114,7 +114,7 @@ li a.tag_name:hover {
 
 .wrapper {
   background-color: {{ site.background_color }}; 
-  height: auto;
+  height: 100%;
   overflow: auto;
   margin: 0px auto;
 }
