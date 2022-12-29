@@ -6,4 +6,12 @@ permalink: /portfolio/
 
 <h1>Portfolio</h1>
 
+{% for portfolio in site.portfolio | sort: 'date' %}
 
+<h2>{{ portfolio.title }}</h2>
+
+{{ portfolio.content }}
+
+<hr></hr>
+
+{% endfor %}
