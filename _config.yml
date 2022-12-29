@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-body_font: Baskerville Libre #font used for body text
+body_font: Libre Baskerville #font used for body text
 header_font: Rye #font used for title and header
 background_color: "#FFFFFF"
 font_color: "#000"
