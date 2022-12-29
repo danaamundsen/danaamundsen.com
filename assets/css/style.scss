@@ -55,15 +55,15 @@ ul.menu {
 }
 
 li a.menu_item {
+  display: block;
+  padding: 3px 8px;
+  text-align: center;
   text-decoration: none;
   background-color: {{ site.color2 }};
   color: {{ site.background_color }};
 }
 
 li a.menu_item:hover {
-  display: block;
-  text-align: center;
-  padding: 3px 8px;
   font-style: italic;
   text-decoration: underline;
   color: {{ site.color1 }};
@@ -73,6 +73,21 @@ ul.submenu {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
+}
+
+li a.submenu_item {
+  display: block;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  background-color: {{ site.color1 }};
+  color: {{ site.background_color }};
+}
+
+li a.submenu_item:hover {
+  font-style: italic;
+  text-decoration: underline;
+  color: {{ site.color2 }};
 }
 
 /* Tags */
