@@ -13,8 +13,7 @@
 
 body {
   font-family: {{ site.body_font }}, sans-serif;
-  background-image: url("{{ site.img_base_url }}/assets/tile.png");
-  background-attachment: fixed;
+  background: {{ site.background_color }};
   color: {{ site.font_color }};
   padding: 0px;
 }
@@ -115,23 +114,8 @@ li a.tag_name:hover {
   height: 100%;
   overflow: auto;
   margin: 0px auto;
-  content: "";
-  clear: both;
-  display: table;
 }
 
-/* .header {
-  background-image: url("{{ site.img_base_url }}/assets/header.png");
-	width: 100%;
-	height: 75px;
-}
-
-.footer {
-	background-image: url("{{ site.img_base_url }}/assets/footer.png");
-	height: 75px;
-	width: 100%;
-}
-*/
 section {
   margin: 0px;
   padding: 0px;
