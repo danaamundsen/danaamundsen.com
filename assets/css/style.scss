@@ -11,6 +11,11 @@
 
 /* Basic Styling */
 
+* {
+  margin: 0px;
+  padding 0px;
+}
+
 body {
   font-family: {{ site.body_font }}, sans-serif;
   background-image: url("{{ site.img_base_url }}/assets/tile.png");
