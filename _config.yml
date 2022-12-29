@@ -15,6 +15,6 @@ header_font: Berkshire Swash #font used for title and header
 background_color: "#eee"
 font_color: "#000"
 color1: "#000" #color of links and headers
-color2: "#333" #color of links on hover
+color2: "#999" #color of links on hover
 
 img_base_url: http://danaamundsen.site44.com
