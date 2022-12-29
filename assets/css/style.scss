@@ -16,6 +16,7 @@ body {
   background-image: url("{{ site.img_base_url }}/assets/tile.png");
   background-attachment: fixed;
   color: {{ site.font_color }};
+  padding: 0px;
 }
 
 h1, h2, h3 {
