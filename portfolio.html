@@ -7,16 +7,14 @@ permalink: /portfolio/
 <h1>Portfolio</h1>
 
 <ul class="tag">
-  {% for categories in portfolio_item.categories %}
-    <li><a href="#{{ category[0] | slugify }}" class="tag_name">#{{ category[0] }}</a></li>
-  {% endfor %}
+    <li><a href="#illus" class="tag_name">Illustration</a></li>
 </ul>
 
 <p></p>
 
-{% for category in portfolio_item.categories %}
-  <p id="{{ category[0] | slugify }}"><b>#{{ tag[0] }}</b></p>
-  {% for post in category[1] %}
+<p id="illus">
+{% for portfolio_item in site.portfiolio_item %}
+  {% if portfolio_item.category == 'illustration' %}
       <a href="{{ site.baseurl }}{{ portfolio_item.url }}" title="{{ portfolio_item.title }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ portfolio_item.img }}&w=100&h=100&fit=cover&output=png" alt="{{ portfolio_item.desc }}" class="thumb"></a>
-  {% endfor %}
+  {% endif %}
 {% endfor %}
