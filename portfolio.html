@@ -12,8 +12,8 @@ permalink: /portfolio/
 
 <p></p>
 
-<p id="illus">
-{% for portfolio_item in site.portfiolio_item %}
+<h2 id="illus">Illustration</h2>
+{% for portfolio_item in site.portfiolio_items %}
   {% if portfolio_item.tag == 'illustration' %}
       <a href="{{ site.baseurl }}{{ portfolio_item.url }}" title="{{ portfolio_item.title }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ portfolio_item.img }}&w=100&h=100&fit=cover&output=png" alt="{{ portfolio_item.desc }}" class="thumb"></a>
   {% endif %}
