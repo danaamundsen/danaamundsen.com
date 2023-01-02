@@ -5,11 +5,7 @@ permalink: /links/
 ---
 ## Links
 
-<table>
-  <tr>
-    <td>
-
- ### My Other Sites/Projects
+### My Other Sites/Projects
 
 - [DnA Artists](http://www.dnaartists.net)  
 - [Lady Knight Comic](http://ladyknightcomic.tumblr.com)
@@ -26,9 +22,6 @@ permalink: /links/
 - [Lynn Nguyen](http://www.teeething.com/)  
 - [Jane Mai](https://www.janemai.co/)  
 - [Chira](https://www.jaydaitkaci.com/)
-      
-      </td>
-      <td>
         
 ### Webcomics
   
@@ -45,7 +38,3 @@ permalink: /links/
 - [Lackadaisy](https://lackadaisy.foxprints.com/)  
 - [MAGE](https://magecomic.com/)  
 - [Ladies of the Knight](https://ladiesoftheknightcomic.com/)
-        
-      </td>
-  </tr>
-</table>
