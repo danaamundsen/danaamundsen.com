@@ -2,21 +2,18 @@
 layout: post
 title: Space Cat 
 date: 2021-01-10
-tags: ["Comics"]
-image: http://www.danaamundsen.com/portfolio/comic/SPACE/photo1.png
-desc: ["SPACE: A Comic Book Anthology"]
-permalink: /space-cat/
+img: /assets/img/portfolio/space_cat_01.png
+alt: ["SPACE: A Comic Book Anthology"]
 ---
 
-![](http://www.danaamundsen.com/portfolio/comic/SPACE/photo1.png)
-![](http://www.danaamundsen.com/portfolio/comic/SPACE/photo2.png)
+<a href="/assets/img/portfolio/space_cat_02.png"><img src="/assets/img/portfolio/space_cat_02.png" alt=""></a>
+<a href="/assets/img/portfolio/space_cat_03.png"><img class="thumb" src="/assets/img/portfolio/space_cat_03.png" alt=""></a>
+<a href="/assets/img/portfolio/space_cat_04.png"><img class="thumb" src="/assets/img/portfolio/space_cat_04.png" alt=""></a>
+<a href="/assets/img/portfolio/space_cat_05.png"><img class="thumb" src="/assets/img/portfolio/space_cat_05.png" alt=""></a>
+<a href="/assets/img/portfolio/space_cat_06.png"><img class="thumb" src="/assets/img/portfolio/space_cat_06.png" alt=""></a>
+<a href="/assets/img/portfolio/space_cat_07.png"><img class="thumb" src="/assets/img/portfolio/space_cat_07.png" alt=""></a>
+<a href="/assets/img/portfolio/space_cat_08.png"><img class="thumb" src="/assets/img/portfolio/space_cat_08.png" alt=""></a>
+<a href="/assets/img/portfolio/space_cat_09.png"><img class="thumb" src="/assets/img/portfolio/space_cat_09.png" alt=""></a>
+<a href="/assets/img/portfolio/space_cat_10.png"><img class="thumb" src="/assets/img/portfolio/space_cat_10.png" alt=""></a>
 
 I participated in the [Louisville Cartoonist Society](http://www.louisvillecartoonistsociety.com/) Space Anthology in 2016. I submitted the following 6 page comic and my illustration was featured on the back cover of the anthology.
-
-![Illustration of a person with pink hair in an astronaut suit floating in space whith a planet in the background.](http://www.danaamundsen.com/portfolio/comic/SPACE/space_anthology.png)
-![](http://www.danaamundsen.com/portfolio/comic/SPACE/pg1.png)
-![](http://www.danaamundsen.com/portfolio/comic/SPACE/pg2.png)
-![](http://www.danaamundsen.com/portfolio/comic/SPACE/pg3.png)
-![](http://www.danaamundsen.com/portfolio/comic/SPACE/pg4.png)
-![](http://www.danaamundsen.com/portfolio/comic/SPACE/pg5.png)
-![](http://www.danaamundsen.com/portfolio/comic/SPACE/pg6.png)
