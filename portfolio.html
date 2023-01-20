@@ -8,21 +8,7 @@ permalink: /portfolio/
 
 <ul>
 {% for portfolio_item in site.portfolio_items %}
-<li>{{ portfolio_item.title }}
+<li><a href="{{ site.baseurl }}{{ portfolio_item.url }}">{{ portfolio_item.title }}</a>
 {% endfor %}
 </ul>
-
-
-<ul class="tag">
-    <li><a href="#illus" class="tag_name">Illustration</a></li>
-</ul>
-
-<p></p>
-
-<h2 id="illus">Illustration</h2>
-{% for portfolio_item in site.portfolio_items %}
-  {% if portfolio_item.tags == 'Illustration' %}
-      <p>{{ portfolio_item.title }}<p>
-  {% endif %}
-{% endfor %}
 
