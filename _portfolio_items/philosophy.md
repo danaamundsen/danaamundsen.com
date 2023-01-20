@@ -4,6 +4,7 @@ title: To Philosophy or Not To Philosophy
 date: 2021-01-08
 img: /assets/img/portfolio/philosophy_01.png
 alt: ["UofL Philosphy Dept"]
+publish: false
 ---
 
 <a href="/assets/img/portfolio/philosophy_01.png"><img src="/assets/img/portfolio/philosophy_01.png" alt=""></a>
