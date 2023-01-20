@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 <ul>
 {% for portfolio_item in site.portfolio_items %}
-<li><a href="{{ site.baseurl }}{{ portfolio_item.url }}">{{ portfolio_item.title }}</a>
+<a href="{{ site.baseurl }}{{ portfolio_item.url }}" title="{{ portfolio_item.title }}"><img src="http://images.weserv.nl/?url={{ site.baseurl }}{{ portfolio.img }}&w=100&h=100&fit=cover&output=png" alt="{{ portfolio.alt }}" class="thumb"></a>
 {% endfor %}
 </ul>
 
