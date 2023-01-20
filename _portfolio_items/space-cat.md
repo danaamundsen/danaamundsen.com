@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: Space Cat 
 date: 2021-01-10
 img: /assets/img/portfolio/space_cat_02.png
