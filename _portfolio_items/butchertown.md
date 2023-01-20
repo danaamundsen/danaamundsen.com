@@ -2,10 +2,8 @@
 layout: post
 title: Butchertown
 date: 2021-01-04
-image: http://www.danaamundsen.com/portfolio/client/louisville_mag/butchertown.png
-desc: ["Lousville Magazine"]
-tags: ["Client Work"]
-permalink: /butchertown/
+img: http://www.danaamundsen.com/portfolio/client/louisville_mag/butchertown.png
+alt: ["Lousville Magazine"]
 ---
 
 ![Colorful illustration of a trolley driving down the street in Butchertown, Louisville.](http://www.danaamundsen.com/portfolio/client/louisville_mag/butchertown.png)
