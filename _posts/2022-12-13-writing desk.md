@@ -4,6 +4,7 @@ title: From the Desk of...
 img: /post/2022/2022-12-2-self.png
 desc: ["A woman in Victorian clothing leaning over a writing desk and holding a letter in her hand."]
 tags: ["victorian"]
+comment_issue_id: 1
 published: true
 ---
 
