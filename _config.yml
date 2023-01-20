@@ -19,7 +19,6 @@ collections:
     alt: true
     date: true
     tags: true
-    date: true
 
 body_font: Karla #font used for body text
 header_font: Berkshire Swash #font used for title and header
