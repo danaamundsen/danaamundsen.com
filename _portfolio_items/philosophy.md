@@ -1,18 +1,13 @@
 ---
-layout: post
+layout: portfolio
 title: To Philosophy or Not To Philosophy
 date: 2021-01-08
-tags: ["Comics"]
-image: http://www.danaamundsen.com/portfolio/comic/philosophy/philosophy.png
-desc: UofL Philosphy Dept
-permalink: /philosophy/
-published: true
+img: /assets/img/portfolio/philosophy_01.png
+alt: ["UofL Philosphy Dept"]
 ---
 
-![Book cover with the title To Philosophy of Not to Philosophy. Cover shows a young man sitting on a chair in the position of Rodin's Thinker.](http://www.danaamundsen.com/portfolio/comic/philosophy/philosophy.png)
-
-![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-1.png)
-![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-2.png)
-![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-3.png)
-![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-4.png)
-![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-5.png)
+<a href="/assets/img/portfolio/philosophy_01.png"><img src="/assets/img/portfolio/philosophy_01.png" alt=""></a>
+<a href="/assets/img/portfolio/philosophy_02.png"><img class="thumb" src="/assets/img/portfolio/philosophy_02.png" alt=""></a>
+<a href="/assets/img/portfolio/philosophy_03.png"><img class="thumb" src="/assets/img/portfolio/philosophy_03.png" alt=""></a>
+<a href="/assets/img/portfolio/philosophy_04.png"><img class="thumb" src="/assets/img/portfolio/philosophy_04.png" alt=""></a>
+<a href="/assets/img/portfolio/philosophy_05.png"><img class="thumb" src="/assets/img/portfolio/philosophy_05.png" alt=""></a>
