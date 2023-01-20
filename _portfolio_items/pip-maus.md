@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: portfolio
 title: Pip and Maus
 date: 2021-01-07
-image: http://www.danaamundsen.com/portfolio/client//pip_maus/pip_and_maus.png
-desc: ["Pet Portrait"]
-tags: ["Client Work"]
-permalink: /pip-and-maus/
+img: /assets/img/portfolio/pip_and_maus.png
+alt: ["Two cats sleeping on a cube shelf."]
 ---
 
 
