@@ -22,9 +22,9 @@ collections:
 body_font: Karla #font used for body text
 header_font: Nanum Brush Script #font used for title and header
 tiny_font:
-background_color: "#fff"
-font_color: "#000"
-color1: "#000" #color of links and headers
-color2: "#999" #color of links on hover
+background_color: "#000"
+font_color: "#fff"
+color1: "#fff" #color of links and headers
+color2: "#ccc" #color of links on hover
 
 img_base_url: http://danaamundsen.site44.com
