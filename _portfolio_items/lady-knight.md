@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: Lady Knight 
 date: 2021-01-11
 img: /assets/img/portfolio/lady_knight_01.png
