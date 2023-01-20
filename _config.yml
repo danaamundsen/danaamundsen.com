@@ -20,7 +20,7 @@ collections:
     alt: true
 
 body_font: Karla #font used for body text
-header_font: Berkshire Swash #font used for title and header
+header_font: Cutive Mono #font used for title and header
 background_color: "#eee"
 font_color: "#000"
 color1: "#000" #color of links and headers
