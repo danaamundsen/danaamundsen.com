@@ -21,7 +21,7 @@ permalink: /portfolio/
 
 <h2 id="illus">Illustration</h2>
 {% for portfolio_item in site.portfolio_items %}
-  {% if portfolio_item.tags === 'Ilustration' %}
+  {% if portfolio_item.tags == 'Illustration' %}
       <p>{{ portfolio_item.title }}<p>
   {% endif %}
 {% endfor %}
