@@ -113,6 +113,21 @@ li a.tag_name:hover {
   color: {{ site.background_color }};
 }
 
+/* Portfolio Items */
+
+ul.portfolio {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+li a.portfolio_item {
+  float: left;
+  display: block;
+  padding: 5px;
+}
+
 .thumb {
   border-radius: 5px;
   width: 100px;
