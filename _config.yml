@@ -18,7 +18,7 @@ collections:
     img: true
     alt: true
     date: true
-    categories: true
+    tags: true
     date: true
 
 body_font: Karla #font used for body text
