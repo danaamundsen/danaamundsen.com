@@ -20,7 +20,7 @@ collections:
     alt: true
 
 body_font: Karla #font used for body text
-header_font: Indie Flower #font used for title and header
+header_font: Nanum Brush Script #font used for title and header
 tiny_font:
 background_color: "#fff"
 font_color: "#000"
