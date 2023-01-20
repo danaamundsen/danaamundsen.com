@@ -1,13 +1,11 @@
 ---
-layout: post
+layout: portfolio
 title: Mistborn
 date: 2021-10-18
-tags: ["Illustration"]
-image: http://www.danaamundsen.com/portfolio/illus/vinelend.png
-desc: ["Digital Illustration"]
-permalink: /mistborn/
+img: /assets/img/portfolio/vinelend.png
+alt: ["Vin and Elend Venture, from the Mistborn trilogy, standing back to back on a rooftop with the spires of Kredik Shaw rising in the background."]
 ---
 
-![](http://www.danaamundsen.com/portfolio/illus/vinelend.png)
+<a href="/assets/img/portfolio/vinelend.png"><img src="/assets/img/portfolio/vinelend.png" alt="Vin and Elend Venture, from the Mistborn trilogy, standing back to back on a rooftop with the spires of Kredik Shaw rising in the background.">
 
 Vin and Elend Venture from the Mistborn series by Brandon Sanderson.
