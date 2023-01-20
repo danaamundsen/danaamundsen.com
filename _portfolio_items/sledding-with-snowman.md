@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Sledding with a Snowman
+date: 2021-01-01
 image: http://www.danaamundsen.com/portfolio/client/louisville_mag/sledding.png
 desc: ["Louisville Magazine"]
 categories: ["Client Work"]
