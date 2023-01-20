@@ -6,9 +6,9 @@ permalink: /portfolio/
 
 <h1>Portfolio</h1>
 
-<ul class="portfolio">
+<ul class="folio">
 {% for portfolio_item in site.portfolio_items %}
-<li class="portfolio_item"><a href="{{ site.baseurl }}{{ portfolio_item.url }}" title="{{ portfolio_item.title }}"><img src="http://images.weserv.nl/?url=http://super.icefairy.net{{ portfolio_item.img }}&w=100&h=100&fit=cover&output=png" alt="{{ portfolio_item.alt }}" class="thumb"></a></li>
+<li class="folio_item"><a href="{{ portfolio_item.url }}" title="{{ portfolio_item.title }}"><img class="thumb" src="http://images.weserv.nl/?url=http://super.icefairy.net{{ portfolio_item.img }}&w=150&h=150&fit=cover&output=png" alt="{{ portfolio_item.alt }}"></a></li>
 {% endfor %}
 </ul>
 
