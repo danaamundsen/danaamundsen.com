@@ -1,5 +1,5 @@
 title: Dana Amundsen  
-logo: #/assets/img/logo.png
+logo: /assets/img/logo.png
 description: Illustrator, Comic Artist, Web Witch
 google_analytics: 
 theme: jekyll-theme-minimal
@@ -20,7 +20,7 @@ collections:
     alt: true
 
 body_font: Karla #font used for body text
-header_font: Cutive Mono #font used for title and header
+header_font: Averia Serif Libre #font used for title and header
 tiny_font:
 background_color: "#fff"
 font_color: "#000"
