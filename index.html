@@ -14,9 +14,9 @@ Welcome to the online residence of Dana Amundsen, illustrator and web witch.
 </ul>
 
 <hr></hr>
-<h1>From the Blog</h1>
+<h1>Blog</h1>
   
-{% for post in site.posts limit:1 %}
+{% for post in site.posts limit:3 %}
 
 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
@@ -32,6 +32,8 @@ Welcome to the online residence of Dana Amundsen, illustrator and web witch.
   <hr></hr>
 
    {% endfor %}
+
+<p><a href="/blog/" title="All blog posts">See all blog posts.</a></p>
 
 <!--
 <h1>From the Web</h1>
