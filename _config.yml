@@ -22,7 +22,7 @@ collections:
 body_font: Roboto Mono #font used for body text
 header_font: Silkscreen # Monofett Nanum Pen Script Silkscreen #font used for title and header
 tiny_font: 
-title_font: Rubik Glitch
+title_font: Monofett
 background_color: "#000"
 font_color: "#fff"
 color1: "#fff" #color of links and headers
