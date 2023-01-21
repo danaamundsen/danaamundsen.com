@@ -20,6 +20,7 @@ body {
 h1, h2, h3 {
   font-family: {{ site.header_font }}, serif;
   color: {{ site.color1 }};
+  font-weight: normal;
 }
 
 a {
