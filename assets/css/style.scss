@@ -17,9 +17,10 @@ body {
   color: {{ site.font_color }};
 }
 
-.title {
+a.title {
   font-family: {{ site.title_font }}, serif;
   font-size: 24pt;
+  text-decoration: none;
 }
 
 h1, h2, h3 {
