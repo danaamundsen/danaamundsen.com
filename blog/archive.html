@@ -17,7 +17,7 @@ permalink: /blog/archive/
   {% endif %}
   {% for tag in tags %}
     <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}"><i>#{{ tag }}</i></a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% unless forloop.last %},&nbsp;{% endunless %}
   {% endfor %}
   </li>
   {% endfor %}
