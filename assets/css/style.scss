@@ -7,7 +7,7 @@
 
 /* Google Fonts */
 
-@import url('https://fonts.googleapis.com/css2?family={{ site.body_font }}&family={{ site.header_font }}&display=swap');
+@import url('https://fonts.googleapis.com/css2?family={{ site.body_font }}&family={{ site.header_font }}&display=swap&family={{ site.title_font }}');
 
 /* Basic Styling */
 
@@ -17,7 +17,12 @@ body {
   color: {{ site.font_color }};
 }
 
-h1 {
+.title {
+  font-family: {{ site.title_font }}, serif;
+  size: 24pt;
+}
+
+h1, h2, h3 {
   font-family: {{ site.header_font }}, serif;
   color: {{ site.color1 }};
   font-weight: normal;
