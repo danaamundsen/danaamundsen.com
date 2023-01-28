@@ -70,8 +70,10 @@ ul.menu {
 }
 
 li a.menu_item {
+  float: left;
   display: block;
-  padding: 0px;
+  text-align: center;
+  padding: 3px 8px;
   text-decoration: none;
   font-weight: 600;
   color: {{ site.color1 }};
@@ -90,8 +92,10 @@ ul.submenu {
 }
 
 li a.submenu_item {
+  float: left;
   display: block;
-  padding: 0px 8px;
+  text-align: center;
+  padding: 3px 8px;
   text-decoration: none;
   font-style: italic;
   color: {{ site.color1 }};
