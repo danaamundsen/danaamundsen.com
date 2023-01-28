@@ -20,7 +20,7 @@ Welcome to the online residence of Dana Amundsen, comic artist and web witch.
 <h1>Latest Posts</h1>
 
 <ul class="folio">
-{% for post in site.posts limit:6 %}
+{% for post in site.posts limit:3 %}
 
 <li><a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=200&h=200&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a></li>
 
