@@ -14,13 +14,9 @@ layout: default
     {% assign tags = page.tags %}
   {% endif %}
   {% for tag in tags %}
-  <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
+  <a href="{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}">#{{ tag }}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
-
-<!-- social shares
-<br><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Share on Twitter</a> | 
-  <a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={{ page.title  }}" title "share on tumblr">Share on Tumblr</a></small> -->
 
 <!-- paginate -->
 <p align="right">
@@ -58,7 +54,7 @@ layout: default
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <a href="{{ site.baseurl }}{{ post.url }}"><img src="http://www.icefairy.net/artlog/thumb/{{ post.image }}" class="thumb"></a>&nbsp;
+      <a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=200&h=200&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a>&nbsp;
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
