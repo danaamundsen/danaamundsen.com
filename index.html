@@ -16,25 +16,15 @@ Welcome to the online residence of Dana Amundsen, illustrator and web witch.
 </ul>
 
 <hr></hr>
-<h1>Blog</h1>
-  
-{% for post in site.posts limit:3 %}
+<h1>Latest Posts</h1>
 
-<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+<ul class="folio">
+{% for post in site.posts limit:4 %}
 
-        {{ post.excerpt }}
-
-      <small><a href="{{ site.baseurl }}{{ post.url }}">Permalink</a> | Date: {{ post.date | date: "%D" }} | tags: 
-  {% assign tags = post.tags %}
-  {% for tag in tags %}
-  <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
-  {% unless forloop.last %},&nbsp;{% endunless %}
-        {% endfor %}</small>
-
-  <hr></hr>
+<li><a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=200&h=200&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a></li>
 
    {% endfor %}
-
+</ul>
 <p><a href="/blog/" title="All blog posts">See all blog posts.</a></p>
 
 <!--
