@@ -69,8 +69,9 @@ ul.menu {
   overflow: hidden;
 }
 
-li.menu_item {
+li.dropdown {
   float: left;
+  display: inline-block;
 }
 
 li a.menu_link, .dropbtn {
@@ -86,10 +87,6 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
   font-style: italic;
   text-decoration: underline;
   color: {{ site.color2 }};
-}
-
-li.dropdown {
-  display: inline-block;
 }
 
 .dropdown-content {
