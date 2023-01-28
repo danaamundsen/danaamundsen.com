@@ -20,9 +20,9 @@ collections:
     alt: true
 
 body_font: Roboto Mono #font used for body text
-header_font: VT323 #Silkscreen #font used for title and header
+header_font: Roboto Mono #Silkscreen #font used for title and header
 tiny_font: 
-title_font: Monofett
+title_font: Roboto Mono
 background_color: "#000"
 font_color: "#fff"
 color1: "#fff" #color of links and headers
