@@ -17,12 +17,6 @@ body {
   color: {{ site.font_color }};
 }
 
-a.title {
-  font-family: {{ site.title_font }}, serif;
-  font-size: 24pt;
-  text-decoration: none;
-}
-
 h1, h2, h3 {
   font-family: {{ site.header_font }}, serif;
   color: {{ site.color1 }};
