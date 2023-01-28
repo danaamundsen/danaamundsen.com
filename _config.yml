@@ -2,13 +2,14 @@ title: Dana Amundsen
 logo: /assets/img/logo2.png
 description: Comic Artist and Web Witch
 google_analytics: 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/dinky@v0.2.0
 excerpt_separator: <!--more-->
 paginate: 5
 paginate_path: "/blog/page:num/"
 plugins: 
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
   
 collections:
   portfolio_items:
