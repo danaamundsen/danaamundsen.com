@@ -95,6 +95,7 @@ li.dropdown {
 .dropdown-content {
   display: none;
   position: absolute;
+  border-radius: 10px;
   background-color: {{ site.color2 }};
 }
 
