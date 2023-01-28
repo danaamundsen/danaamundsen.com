@@ -95,7 +95,7 @@ li.dropdown {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: {{ site.color2 }};
 }
 
 .dropdown-content a {
@@ -104,13 +104,13 @@ li.dropdown {
   padding: 3px 8px;
   text-decoration: none;
   font-style: italic;
-  color: {{ site.color1 }};
+  color: {{ site.background_color }};
 }
 
 .dropdown-content a:hover {
   font-style: italic;
   text-decoration: underline;
-  color: {{ site.color2 }};
+  color: {{ site.color1 }};
   }
 
 .dropdown:hover .dropdown-content {
