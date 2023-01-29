@@ -71,7 +71,7 @@ li.dropdown:last-child {
 
 li a.menu_link, .dropbtn {
   display: block;
-  padding: 0px 3px;
+  padding: 5px 3px;
   text-decoration: underline;
   color: {{ site.color2 }};
 }
@@ -93,7 +93,7 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
 .dropdown-content a {
   display: block;
   text-align: left;
-  padding: 0px 3px;
+  padding: 5px 3px;
   text-decoration: underline;
   font-style: italic;
   color: {{ site.color2 }};
