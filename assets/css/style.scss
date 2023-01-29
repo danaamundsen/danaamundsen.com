@@ -57,13 +57,13 @@ ul.menu {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border: 1px solid {{ site.color1 }};
+  background: #ccc;
 }
 
 li.dropdown {
   float: left;
   display: inline-block;
-  border-right: 1px solid {{ site.color1 }};
+  border-right: 1px solid {{ site.background_color }};
 }
 
 li.dropdown:last-child {
