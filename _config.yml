@@ -26,6 +26,6 @@ title_font: Silkscreen
 background_color: "#000"
 font_color: "#fff"
 color1: "#fff" #color of links and headers
-color2: "#ccc" #color of links on hover
+color2: "#aaa" #color of links on hover
 
 img_base_url: http://danaamundsen.site44.com
