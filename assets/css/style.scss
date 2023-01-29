@@ -71,7 +71,7 @@ li.dropdown:last-child {
 
 li a.menu_link, .dropbtn {
   display: block;
-  padding: 3px 3px;
+  padding: 0px 3px;
   text-decoration: none;
   font-weight: 600;
   color: {{ site.color2 }};
@@ -86,16 +86,17 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: {{ site.color2 }};
+  background-color: {{ site.background_color }};
+  border: 1px solid {{ site.color1 }}
 }
 
 .dropdown-content a {
   display: block;
   text-align: left;
-  padding: 3px 3px;
+  padding: 0px 3px;
   text-decoration: none;
   font-style: italic;
-  color: {{ site.background_color }};
+  color: {{ site.color2 }};
 }
 
 .dropdown-content a:hover {
