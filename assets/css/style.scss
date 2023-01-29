@@ -71,7 +71,7 @@ li.dropdown {
 li a.menu_link, .dropbtn {
   display: block;
   text-align: center;
-  padding: 3px 8px;
+  padding: 3px 3px;
   text-decoration: none;
   font-weight: 600;
   color: {{ site.color1 }};
@@ -93,7 +93,7 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
 .dropdown-content a {
   display: block;
   text-align: left;
-  padding: 3px 8px;
+  padding: 3px 3px;
   text-decoration: none;
   font-style: italic;
   color: {{ site.background_color }};
