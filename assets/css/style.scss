@@ -47,10 +47,10 @@ hr {
   margin: 24px auto;
 }
 
-img {
+/* img {
   border-radius: 15px;
 }
-
+*/
 .icon {
   border-radius: 0px;
 }
@@ -130,7 +130,6 @@ li a.tag_name {
   font-style: italic;
   text-decoration: underline;
   color: {{ site.color1 }};
-  border-radius: 10px;
 }
 
 li a.tag_name:hover {
