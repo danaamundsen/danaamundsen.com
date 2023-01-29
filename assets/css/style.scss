@@ -47,10 +47,6 @@ hr {
   margin: 24px auto;
 }
 
-/* img {
-  border-radius: 15px;
-}
-*/
 .icon {
   border-radius: 0px;
 }
@@ -66,7 +62,7 @@ ul.menu {
 li.dropdown {
   float: left;
   display: inline-block;
-  border-right: 1px solid {{ site.color1 }};
+  border-right: 2px solid {{ site.color1 }};
 }
 
 li.dropdown:last-child {
@@ -79,13 +75,12 @@ li a.menu_link, .dropbtn {
   text-decoration: none;
   font-weight: 600;
   color: {{ site.background_color }};
-  background: {{ site.color2 }};
 }
 
 li a.menu_link:hover, .dropdown:hover .dropbtn {
   font-style: italic;
   text-decoration: underline;
-  color: {{ site.color2 }};
+  color: {{ site.color1 }};
 }
 
 .dropdown-content {
@@ -154,7 +149,7 @@ li a.folio_item {
 }
 
 .thumb {
-  border-radius: 10px;
+  border-radius: 0px;
   height: 150px;
 }
 
