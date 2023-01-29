@@ -31,13 +31,13 @@ Graduated Magna Cum Laude from the University of Louisville with a BFA in Fine A
 
 #### Illustrations
 
-##### [Design and Build Great Web APIs](/web-apis/)
+##### [Design and Build Great Web APIs](/portfolio/web-apis/)
 
 Series of Illustrations   
 October, 2020  
 Worked with [Mike Amundsen](http://www.amundsen.com) to create a series of illustrations to communicate ideas explained in the book [Design and Build Great Web APIs](http://www.greatwebapis.com/). This project took place over 3 months and involved lots of back and forth with the author. The author provided concept sketches for the ideas he wanted illustrated, which I then used to compose a coherent set of illustrations to use in the book.
 
-##### [Restful Web Clients](/restful/)
+##### [Restful Web Clients](/portfolio/restful/)
 
 Character Illustrations  
 November, 2016  
@@ -47,7 +47,7 @@ Created 4 characters to be used throughout the book as avatars for the reader to
 
 Splash Illustrations  
 2014 - 2016  
-Worked with Louisville Magazine 3 times over the course of 3 years to provide splash illustrations for the magazine. These illustrations include [Sledding with a Snowman](/sledding/), [Fish in the Sea](/fish-in-the-sea/), and [Butchertown](/butchertown/).
+Worked with Louisville Magazine 3 times over the course of 3 years to provide splash illustrations for the magazine. These illustrations include [Sledding with a Snowman](/portfolio/sledding/), [Fish in the Sea](/portfolio/fish-in-the-sea/), and [Butchertown](/portfolio/butchertown/).
 
 ##### [Trash Lord](https://philome.la/isjald/the-trash-lord/index.html)
 
@@ -65,29 +65,29 @@ Created a series of illustrations based on Joseph Campbell's Hero's Journey to a
 
 Featured Illustration  
 September, 2012  
-Illustration titled [*Lonely Alone*](/lonely-alone/) featured in the Fall 2012 edition of *The Vagina Zine*, a Texas based feminist zine that is no longer in publication.
+Illustration titled [*Lonely Alone*](/portfolio/lonely-alone/) featured in the Fall 2012 edition of *The Vagina Zine*, a Texas based feminist zine that is no longer in publication.
 
 #### Comics and Zines
 
-##### [Waiter Cat](/waiter-cat/)
+##### Waiter Cat
 
 Zine  
 October, 2021  
 A humorous 8 page zine about a cat waiting tables.
 
-##### [Space Cat](/space-cat/)
+##### [Space Cat](/portfolio/space-cat/)
 
 Comic in The Louisville Cartoonist Society Presents: SPACE  
 July, 2016  
 An 8 page comic featured in the 2016 [Louisville Cartoonist Society](http://www.louisvillecartoonistsociety.com/) anthology. My work was also featured on the back cover of the anthology.
 
-##### [Lady Knight](/lady-knight/)
+##### [Lady Knight](/portfolio/lady-knight/)
 
 Webcomic  
 2015-2021  
-In 2015 I began my first web comic project, title Lady Knight. The comic was updated frequently in the first year of it's publishing but was then updated sporadically until I left the project on hiatus. I was the sole creator of the comic, from the scripting, to thumbnails, to lines, and tones/color. I also ran all of the social media promotions and digital publishing of the comic.
+In 2015 I began my first web comic project, title [Lady Knight](http://ladyknightcomic.tumblr.com). The comic was updated frequently in the first year of it's publishing but was then updated sporadically until I left the project on hiatus. I was the sole creator of the comic, from the scripting, to thumbnails, to lines, and tones/color. I also ran all of the social media promotions and digital publishing of the comic.
 
-##### [The Forest of the Unicorn](/forest-of-the-unicorn)
+##### [The Forest of the Unicorn](/portfolio/forest-of-the-unicorn)
 
 Comic in The Louisville Cartoonist Society Presents: Tall Tales & Little Lies  
 July, 2015  
@@ -99,7 +99,7 @@ Zine
 July, 2015  
 A humorous zine filled with illustrations of cats grooming themselves.
 
-##### [To Philosophy or Not To Philosophy](/philosophy/)
+##### To Philosophy or Not To Philosophy
 
 Comic for the University of Louisville Philosophy Department  
 August, 2013  
