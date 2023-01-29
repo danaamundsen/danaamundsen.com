@@ -57,13 +57,12 @@ ul.menu {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: {{ site.color2 }};
 }
 
 li.dropdown {
   float: left;
   display: inline-block;
-  border-right: 1px solid {{ site.background_color }};
+  border-right: 1px solid {{ site.color1 }};
 }
 
 li.dropdown:last-child {
@@ -74,7 +73,7 @@ li a.menu_link, .dropbtn {
   display: block;
   padding: 5px 3px;
   text-decoration: underline;
-  color: {{ site.color2 }};
+  color: {{ site.color1 }};
 }
 
 li a.menu_link:hover, .dropdown:hover .dropbtn {
