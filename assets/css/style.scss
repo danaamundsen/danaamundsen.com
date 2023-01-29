@@ -57,8 +57,7 @@ ul.menu {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border-top: 1px solid {{ site.color1 }};
-  border-bottom: 1px solid {{ site.color1 }};
+  border: 1px solid {{ site.color1 }};
 }
 
 li.dropdown {
@@ -68,7 +67,7 @@ li.dropdown {
 }
 
 li.dropdown:last-child {
-    border-right: none;
+  border-right: none;
 }
 
 li a.menu_link, .dropbtn {
