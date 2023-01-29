@@ -78,7 +78,7 @@ li a.menu_link, .dropbtn {
   padding: 3px 3px;
   text-decoration: none;
   font-weight: 600;
-  color: {{ site.background.color }};
+  color: {{ site.background_color }};
   background: {{ site.color2 }};
 }
 
