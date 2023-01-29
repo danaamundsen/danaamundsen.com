@@ -23,6 +23,11 @@ h1, h2, h3 {
   font-weight: normal;
 }
 
+h4, h5, h6 {
+  font-family: {{ site.body_font }}, serif;
+  color: {{ site.color1 }};
+}
+
 a {
   font-weight: 400;
   color: {{ site.color1 }};
