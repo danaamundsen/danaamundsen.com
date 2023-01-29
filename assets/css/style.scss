@@ -66,6 +66,7 @@ ul.menu {
 li.dropdown {
   float: left;
   display: inline-block;
+  border-left: 1px solid #ccc;
 }
 
 li a.menu_link, .dropbtn {
