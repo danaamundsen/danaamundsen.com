@@ -29,7 +29,7 @@ University of Louisville
 May 2013  
 Graduated Magna Cum Laude from the University of Louisville with a BFA in Fine Art and English.
 
-<hr></hr>
+<hr>
 
 #### Illustrations
 
@@ -69,7 +69,7 @@ Featured Illustration
 September, 2012  
 Illustration titled [*Lonely Alone*](/portfolio/lonely-alone/) featured in the Fall 2012 edition of *The Vagina Zine*, a Texas based feminist zine that is no longer in publication.
 
-<hr></hr>
+<hr>
 
 #### Comics and Zines
 
@@ -109,7 +109,7 @@ Comic for the University of Louisville Philosophy Department
 August, 2013  
 Dr. Brian Barnes of the Philosophy department was funding a comic to use in class and recruitment. The project was a collaboration between many artists. I revised the script and created a 10 page comic from thumbnails to final inks, as well as designing a cover illustration for the comic.
 
-<hr></hr>
+<hr>
 
 #### Art Shows and Conventions
 
