@@ -9,15 +9,21 @@ Dana Amundsen creates intricate fantasy illustrations and comics using a combina
 
 Dana believes drawings are vehichles for communication and storytelling in addition to being beautiful works of art and would love to work with you to tell your story through drawings.
 
+<hr>
+
 ### Contact
 
 Email Dana at [danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)  
+
+<hr>
 
 ### Skills
 - Adobe Creative Suite (Photoshop, InDesign, Illustrator)
 - Clip Studio Paint
 - Blender
 - HTML/CSS
+
+<hr>
 
 ### CV
 
