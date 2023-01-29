@@ -62,7 +62,7 @@ ul.menu {
 li.dropdown {
   float: left;
   display: inline-block;
-  border-right: 2px solid {{ site.color1 }};
+  border-right: 1px solid {{ site.color1 }};
 }
 
 li.dropdown:last-child {
@@ -71,9 +71,8 @@ li.dropdown:last-child {
 
 li a.menu_link, .dropbtn {
   display: block;
-  padding: 0px 4px;
-  text-decoration: none;
-  font-weight: 600;
+  padding: 0px 3px;
+  text-decoration: underline;
   color: {{ site.color2 }};
 }
 
@@ -87,21 +86,22 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
   display: none;
   position: absolute;
   background-color: {{ site.background_color }};
-  border: 1px solid {{ site.color1 }}
+  border: 1px solid {{ site.color1 }};
+  border-top: 0px;
 }
 
 .dropdown-content a {
   display: block;
   text-align: left;
-  padding: 0px 4px;
-  text-decoration: none;
+  padding: 0px 3px;
+  text-decoration: underline;
   font-style: italic;
   color: {{ site.color2 }};
 }
 
 .dropdown-content a:hover {
   font-style: italic;
-  text-decoration: underline;
+  text-decoration: none;
   color: {{ site.color1 }};
   }
 
