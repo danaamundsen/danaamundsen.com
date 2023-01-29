@@ -2,16 +2,11 @@
 layout: portfolio
 title: Design and Build Great Web APIs
 date: 2021-01-06
-img: /assets/img/portfolio/api_01.png
+img: /assets/img/portfolio/api_07.png
 alt: ["Design and Build Great Web APIs"]
 ---
 
-<a href="/assets/img/portfolio/api_01.png"><img src="/assets/img/portfolio/api_01.png" alt=""></a>
-<a href="/assets/img/portfolio/api_02.png"><img class="thumb" src="/assets/img/portfolio/api_02.png" alt=""></a>
-<a href="/assets/img/portfolio/api_03.png"><img class="thumb" src="/assets/img/portfolio/api_03.png" alt=""></a>
-<a href="/assets/img/portfolio/api_04.png"><img class="thumb" src="/assets/img/portfolio/api_04.png" alt=""></a>
-<a href="/assets/img/portfolio/api_05.png"><img class="thumb" src="/assets/img/portfolio/api_05.png" alt=""></a>
-<a href="/assets/img/portfolio/api_06.png"><img class="thumb" src="/assets/img/portfolio/api_06.png" alt=""></a>
+<a href="/assets/img/portfolio/api_01.png"><img src="/assets/img/portfolio/api_07.png" alt=""></a>
 <a href="/assets/img/portfolio/api_07.png"><img class="thumb" src="/assets/img/portfolio/api_07.png" alt=""></a>
 <a href="/assets/img/portfolio/api_08.png"><img class="thumb" src="/assets/img/portfolio/api_08.png" alt=""></a>
 <a href="/assets/img/portfolio/api_09.png"><img class="thumb" src="/assets/img/portfolio/api_09.png" alt=""></a>
