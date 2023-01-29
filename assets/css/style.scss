@@ -17,7 +17,7 @@ body {
   color: {{ site.font_color }};
 }
 
-h1, h2, h3, h4, h5, h6, h7 {
+h1, h2, h3, h4, h5, h6 {
   font-family: {{ site.header_font }}, serif;
   color: {{ site.color1 }};
   font-weight: normal;
@@ -57,6 +57,8 @@ ul.menu {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  border-top: 1px solid {{ site.color1 }};
+  border-bottom: 1px solid {{ site.color1 }};
 }
 
 li.dropdown {
