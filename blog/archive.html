@@ -10,13 +10,14 @@ permalink: /blog/archive/
   {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}"><b>{{ post.title }}</b></a><small> {{ post.date | date: "%D" }} 
-    {% if post %}
+{% if post %}
     {% assign tags = post.tags %}
   {% else %}
     {% assign tags = page.tags %}
   {% endif %}
   {% for tag in tags %}
-    <a href="{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}"><i>#{{ tag }}</i></a>
+  <a href="{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}">#{{ tag }}</a>
+  {% unless forloop.last %},{% endunless %}
   {% endfor %}
   </small></li>
   {% endfor %}
