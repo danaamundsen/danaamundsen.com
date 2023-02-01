@@ -110,6 +110,7 @@ ul.menu {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  font-family: {{ site.body_font }};
 }
 
 li.dropdown {
@@ -122,15 +123,16 @@ li a.menu_link, .dropbtn {
   padding: 8px 16px;
   text-decoration: none;
   font-weight: 600;
-  color: {{ site.color1 }};
-  background: {{ site.color2 }};
+  color: {{ site.color2 }};
+  background: {{ site.color1 }};
   border-radius: 15px;
+  margin: 5px;
 }
 
 li a.menu_link:hover, .dropdown:hover .dropbtn {
   font-style: italic;
   text-decoration: none;
-  color: {{ site.color1 }};
+  color: {{ site.color2 }};
 }
 
 .dropdown-content {
@@ -148,6 +150,7 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
   color: {{ site.color1 }};
   background: {{ site.color2 }};
   border-radius: 15px;
+  margin: 2px;
 }
 
 .dropdown-content a:hover {
