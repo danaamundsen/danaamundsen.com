@@ -102,6 +102,7 @@ li a.menu_link:hover {
 }
 
 /* tags */
+
 ul.tag {
   list-style-type: none;
   overflow: hidden;
@@ -123,4 +124,25 @@ li a.tag_name:hover {
   text-decoration: none;
   background-color: {{ site.color2 }};
   color: {{ site.background_color }};
+}
+
+
+/* Portfolio Items */
+
+ul.folio {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+li a.folio_item {
+  float: left;
+  display: block;
+  padding: 5px;
+}
+
+.thumb {
+  border-radius: 0px;
+  height: 150px;
 }
