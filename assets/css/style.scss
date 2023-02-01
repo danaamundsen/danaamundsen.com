@@ -115,42 +115,39 @@ ul.menu {
 li.dropdown {
   float: left;
   display: inline-block;
-  border-right: 1px solid {{ site.color1 }};
-}
-
-li.dropdown:last-child {
-  border-right: none;
 }
 
 li a.menu_link, .dropbtn {
   display: block;
-  padding: 5px 3px;
-  text-decoration: underline;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-weight: 600;
   color: {{ site.color1 }};
+  background: {{ site.color2 }};
+  border-radius: 15px;
 }
 
 li a.menu_link:hover, .dropdown:hover .dropbtn {
   font-style: italic;
-  text-decoration: underline;
+  text-decoration: none;
   color: {{ site.color1 }};
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: {{ site.background_color }};
-  border: 1px solid {{ site.color1 }};
-  border-top: 0px;
 }
 
 .dropdown-content a {
   display: block;
   float: left;
   text-align: left;
-  padding: 5px 3px;
-  text-decoration: underline;
+  padding: 4px 8px;
+  text-decoration: none;
   font-style: italic;
-  color: {{ site.color2 }};
+  color: {{ site.color1 }};
+  background: {{ site.color2 }};
+  border-radius: 15px;
 }
 
 .dropdown-content a:hover {
