@@ -14,12 +14,12 @@ body {
   color: {{ site.font_color }};
 }
 
-h1, #main-content h1, h2, #main-content h2, h3, #main-content h3 {
+h1, #main-content h1, h2, #main-content h2 {
   font-family: {{ site.header_font }}, serif;
   color: {{ site.font_color }};
 }
 
-h4, #main-content h4, h5, #main-content h5, h6, #main-content h6 {
+h3, #main-content h3, h4, #main-content h4, h5, #main-content h5, h6, #main-content h6 {
   font-family: {{ site.body_font }};
   color: {{ site.font_color }};
   font-weight: 600;
