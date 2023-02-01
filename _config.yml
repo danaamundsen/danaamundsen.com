@@ -21,9 +21,9 @@ collections:
 body_font: Karla #font used for body text
 header_font: Berkshire Swash #font used for title and header
 
-font_color: "#241C07"
-background_color: "#fff"
-color1: "#241C07" #color of links and headers
-color2: "#A17649" #color of links on hover
+font_color: "#fff"
+background_color: "#241C07"
+color1: "#A17649" #color of links and headers
+color2: "#665541" #color of links on hover
 
 img_base_url: http://danaamundsen.site44.com
