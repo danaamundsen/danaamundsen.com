@@ -69,9 +69,30 @@ header {
     content: "◆";
 }
 
+#main-content h2:before {
+    padding-right: 0.3em;
+    margin-left: -0.9em;
+    color: {{ site.color2 }};
+    content: "◆";
+}
+
+#main-content h3:before {
+    padding-right: 0.3em;
+    margin-left: -0.9em;
+    color: {{ site.color2 }};
+    content: "◆";
+}
+
+#main-content h4:before {
+    padding-right: 0.3em;
+    margin-left: -0.9em;
+    color: {{ site.color2 }};
+    content: "◆";
+}
+
 aside#sidebar {
   padding-left: 30px;
-  paddint-top: 15px;
+  padding-top: 15px;
 }
 
 img {
