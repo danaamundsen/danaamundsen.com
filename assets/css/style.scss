@@ -131,6 +131,32 @@ li a.menu_link:hover {
   color: {{ site.color2 }};
 }
 
+ul.submenu {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  font-family: {{ site.body_font }};
+}
+
+li a.submenu_link {
+  float: left;
+  display: block;
+  padding: 4px 8px;
+  margin: 5px;
+  text-decoration: none;
+  font-weight: 400;
+  color: {{ site.color2 }};
+  background: {{ site.color1 }};
+  border-radius: 5px;
+}
+
+li a.submenu_link:hover {
+  font-style: italic;
+  text-decoration: none;
+  color: {{ site.color2 }};
+}
+
 /* tags */
 
 ul.tag {
