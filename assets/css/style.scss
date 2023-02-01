@@ -130,7 +130,7 @@ li a.menu_link, .dropbtn {
   font-weight: 600;
   color: {{ site.color2 }};
   background: {{ site.color1 }};
-  border-radius: 15px;
+  border-radius: 10px;
   margin: 5px;
 }
 
@@ -154,7 +154,7 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
   font-style: italic;
   color: {{ site.color1 }};
   background: {{ site.color2 }};
-  border-radius: 15px;
+  border-radius: 5px;
   margin: 2px;
 }
 
