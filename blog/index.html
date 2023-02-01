@@ -9,7 +9,7 @@ title: Blog
       
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-  <p><small>Date: {{ post.date | date: "%D" }} 
+  <p>Date: {{ post.date | date: "%D" }} 
   <br>Tags: {% if post %}
     {% assign tags = post.tags %}
   {% else %}
@@ -19,7 +19,7 @@ title: Blog
   <a href="{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}">#{{ tag }}</a>
   {% unless forloop.last %},{% endunless %}
   {% endfor %}
-       </small></p>
+       </p>
 
         {{ post.excerpt }}
 
