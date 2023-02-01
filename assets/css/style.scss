@@ -20,7 +20,7 @@ h1, #main-content h1, h2, #main-content h2, h3, #main-content h3 {
 }
 
 h4, #main-content h4, h5, #main-content h5, h6, #main-content h6 {
-  font-camily: {{ site.body_font }};
+  font-family: {{ site.body_font }};
   color: {{ site.color1 }};
 }
 
