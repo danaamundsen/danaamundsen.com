@@ -39,16 +39,11 @@ permalink: /links/
 - [MAGE](https://magecomic.com/)  
 - [Ladies of the Knight](https://ladiesoftheknightcomic.com/)
 
-<h2>resources</h2>
+## Resources
 
-<p>This page is an organized list of references and resources for independent creatives that I have collected over the years. Some of these are business related, some are related to creative practice, and some are just tools that I think are useful.
+<p>This is an organized list of references and resources for independent creatives that I have collected over the years. Some of these are business related, some are related to creative practice, and some are just tools that I think are useful.
 
-<h3>general advice</h3>
-
-<p>- Get a library card from your local library and utilize their (free!!) services such as <a href="https://en.wikipedia.org/wiki/Interlibrary_loan">interlibrary loans</a>, career services, and events. You can also request that your library acquire certain resources, like a book, cd, or movie that you would like to use for reference.
-<br>- Designate a place to keep track of projects, ideas, research, and anything else that you think is related to your work. This can be a notebook, folder of loose pages, digital program, a word document, etc. etc. Just have a place to keep stuff.
-
-<h3>productivity</h3>
+### Productivity
 
 <ul>
 <li><a href="https://evernote.com/">Evernote</a></li>
@@ -58,7 +53,7 @@ permalink: /links/
 <li><a href="https://www.dropbox.com/home">Dropbox</a></li>
 </ul>
 
-<h3>gesture drawing tools and stock images</h3>
+### Gesture drawing tools and stock images
 
 <ul>
 <li><a href="https://line-of-action.com/">Line of Action</a></li>
@@ -70,23 +65,23 @@ permalink: /links/
 <li><a href="https://www.youtube.com/playlist?list=PLIBqsERKnPcUu8P69qf3qojAlYQnQxKUn">Movco art Figure Drawing Sessions</a></li>
 </ul>
 
-<h3>stock images and 3d references</h3>
+### Stock images and 3d references<
 
 <ul>
 <li><a href="https://www.deviantart.com/faestock">Faestock</a></li>
 <li><a href="https://www.acon3d.com/en/toon">ACON 3D</a></li>
-<li><a href="https://polyhaven.com/">Poly Haven</a>
+<li><a href="https://polyhaven.com/">Poly Haven</a></li>
 </ul>
 
-<h3>collections and archives</h3>
+### Collections and archives
 
 <ul>
 <li><a href="https://www.metmuseum.org/art/the-collection">The Met Collection</a></li>
 <li><a href="https://digitalcollections.nypl.org/">NYPL Digital Collections</a></li>
-<li><a href="https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/edit?usp=sharing">Claire's Historical Fashion Reference & Resources</a>
+<li><a href="https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/edit?usp=sharing">Claire's Historical Fashion Reference & Resources</a></li>
 </ul>
 
-<h3>books</h3>
+### Books
 
 <ul>
 <li><a href="https://bookshop.org/books/rework-9780307463746/9780307463746">Rework</a></li>
@@ -99,7 +94,7 @@ permalink: /links/
 <li><a href="https://bookshop.org/books/color-and-light-a-guide-for-the-realist-paintervolume-2/9780740797712">Color and Light: A Guide for the Realist Painter Vol II</a></li>
 </ul>
 
-<h3>fonts</h3>
+### Fonts
 
 <ul>
 <li><a href="http://losttype.com/">Lost Type Co-op</a></li>
@@ -107,9 +102,10 @@ permalink: /links/
 <li><a href="https://www.freekoreanfont.com/">Free Korean Fonts</a></li>
 <li><a href="https://www.fontsquirrel.com/">Font Squirrel</a></li>
 <li><a href="http://www.smeltery.net/fonts/?c=free">SMeltery</a></li>
+<li><a href="https://ko-fi.com/salinsley">Sara Linsley</a></li>
 </ul>
 
-<h3>programs</h3>
+### Programs
 
 <ul>
 <li><a href="https://www.clipstudio.net/en/">Clip Studio Paint</a></li>
@@ -120,7 +116,7 @@ permalink: /links/
 <li><a href="https://www.pureref.com/">PureRef</a></li>
 </ul>
 
-<h3>uncategorized</h3>
+### Uncategorized
 
 <ul>
 <li><a href="https://creativeplusbusiness.com/wp-content/uploads/2014/02/TEMPLATE_Business_Plan_for_Creatives.pdf">Business Plan for Creative People</a></li>
