@@ -4,7 +4,7 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<p><small> Date: {{ page.date | date: "%D" }}
+<p> Date: {{ page.date | date: "%D" }}
  <br>Tags: {% if post %}
     {% assign tags = post.tags %}
   {% else %}
