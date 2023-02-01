@@ -1,8 +1,7 @@
-title: Dana Amundsen  
-logo: /assets/img/logo2.png
+title: Dana Amundsen
 description: Comic Artist and Web Witch
+theme: jekyll-theme-architect
 google_analytics: 
-theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -19,13 +18,12 @@ collections:
     img: true
     alt: true
 
-body_font: Roboto Mono #font used for body text
-header_font: Silkscreen #font used for title and header
-tiny_font: 
-title_font: Silkscreen
-background_color: "#000"
-font_color: "#fff"
-color1: "#fff" #color of links and headers
-color2: "#aaa" #color of links on hover
+body_font: Karla #font used for body text
+header_font: Berkshire Swash #font used for title and header
+
+font_color: "#241C07"
+background_color: "#fff"
+color1: "#241C07" #color of links and headers
+color2: "#A17649" #color of links on hover
 
 img_base_url: http://danaamundsen.site44.com
