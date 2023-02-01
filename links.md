@@ -41,7 +41,7 @@ permalink: /links/
 
 ## Resources
 
-<p>This is an organized list of references and resources for independent creatives that I have collected over the years. Some of these are business related, some are related to creative practice, and some are just tools that I think are useful.
+This is an organized list of references and resources for independent creatives that I have collected over the years. Some of these are business related, some are related to creative practice, and some are just tools that I think are useful.
 
 ### Productivity
 
@@ -65,7 +65,7 @@ permalink: /links/
 <li><a href="https://www.youtube.com/playlist?list=PLIBqsERKnPcUu8P69qf3qojAlYQnQxKUn">Movco art Figure Drawing Sessions</a></li>
 </ul>
 
-### Stock images and 3d references<
+### Stock images and 3d references
 
 <ul>
 <li><a href="https://www.deviantart.com/faestock">Faestock</a></li>
