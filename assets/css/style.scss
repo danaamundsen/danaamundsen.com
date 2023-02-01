@@ -41,11 +41,11 @@ h1 a, h2 a, h3 a {
   font-weight: 400;
   text-decoration: none;
   border-bottom: 2px solid {{ site.color2 }};
-  color: {{ site.color2 }};
+  color: {{ site.font_color }};
 }
 
 header h2 {
-  color: {{ site.color2 }};
+  color: {{ site.font_color }};
 }
 
 hr {
@@ -60,11 +60,12 @@ hr {
 
 header {
   background-repeat: repeat;
+  background-color: {{ site.background_color }};
   border-bottom: 1px solid {{ site.color1 }};
 }
 
 #content-wrapper {
-  padding-top: 0px;
+  background-color: {{ site.background_color }};
   border-top: 1px solid {{ site.color1 }};
 }
 
@@ -97,7 +98,7 @@ header {
 }
 
 img {
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 .icon {
@@ -124,8 +125,8 @@ li a.menu_link, .dropbtn {
   padding: 8px 16px;
   text-decoration: none;
   font-weight: 600;
-  color: {{ site.color2 }};
-  background: {{ site.color1 }};
+  color: {{ site.color1 }};
+  background: {{ site.background_color }};
   border-radius: 10px;
   margin: 5px;
 }
@@ -148,7 +149,7 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
   padding: 4px 8px;
   text-decoration: none;
   font-style: italic;
-  color: {{ site.color1 }};
+  color: {{ site.background_color }};
   background: {{ site.color2 }};
   border-radius: 5px;
   margin: 2px;
@@ -205,6 +206,5 @@ li a.folio_item {
 }
 
 .thumb {
-  border-radius: 15px;
   height: 150px;
 }
