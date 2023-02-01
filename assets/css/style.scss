@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
 h1 a, h2 a, h3 a {
   font-weight: 400;
   text-decoration: none;
-  border-bottom: 2px solid {{ site.color2 }};
+  border-bottom: 2px solid {{ site.color1 }};
   color: {{ site.font_color }};
 }
 
@@ -72,29 +72,29 @@ header {
 #main-content h1:before {
     padding-right: 0.3em;
     margin-left: -0.9em;
-    color: {{ site.color2 }};
+    color: {{ site.color1 }};
     content: "◆";
 }
 
 #main-content h2:before {
     padding-right: 0.3em;
     margin-left: -0.9em;
-    color: {{ site.color2 }};
-    content: "◆";
+    color: {{ site.color1 }};
+    content: "◇";
 }
 
 #main-content h3:before {
     padding-right: 0.3em;
     margin-left: -0.9em;
-    color: {{ site.color2 }};
-    content: "◆";
+    color: {{ site.color1 }};
+    content: "◇◇";
 }
 
 #main-content h4:before {
     padding-right: 0.3em;
     margin-left: -0.9em;
-    color: {{ site.color2 }};
-    content: "◆";
+    color: {{ site.color1 }};
+    content: "◇◇◇";
 }
 
 img {
