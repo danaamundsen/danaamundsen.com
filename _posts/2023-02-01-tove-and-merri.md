@@ -8,7 +8,7 @@ published: true
 ---
 
 <a href="{{ site.img_base_url }}/post/2023/2023-02-01-tove-and-merri.png" title="Click for full size"><img src="{{ site.img_base_url }}/post/2023/2023-02-01-tove-and-merri.png" alt="An ink drawing of Tove and Merri with screentones added for shading"></a>
-<a href="{{ site.base_img_url }}/post/2023/2023-02-01-tove-and-merri-lines.png" title="Click for full size"><img class="thumb" src="{{ site.base_img_url }}/post/2023/2023-02-01-tove-and-merri-lines.png" alt="Line art of the finished drawing"></a>
+<a href="{{ site.img_base_url }}/post/2023/2023-02-01-tove-and-merri-lines.png" title="Click for full size"><img class="thumb" src="{{ site.base_img_url }}/post/2023/2023-02-01-tove-and-merri-lines.png" alt="Line art of the finished drawing"></a>
 
 Reimagined versions of Tove and Merri from my webcomic [Lady Knight](http://ladyknightcomic.tumblr.com).
 
