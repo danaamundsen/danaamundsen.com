@@ -4,7 +4,7 @@ title: Lady Knight Illustration and New Website
 image: /post/2023/2023-02-01-tove-and-merri.png
 desc: ["An ink drawing of Tove and Merri"]
 tags: ["Lady Knight"]
-published: false
+published: true
 ---
 
 <a href="{{ site.img_base_url }}/post/2023/2023-02-01-tove-and-merri.png" title="Click for full size"><img src="{{ site.img_base_url }}/post/2023/2023-02-01-tove-and-merri.png" alt="An ink drawing of Tove and Merri with screentones added for shading"></a>
