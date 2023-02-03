@@ -15,7 +15,7 @@ permalink: /links/
 ### Artists/Studios
 
 <ul class="tag">
-  <li><a href="https://www.kradeelav.com/" class="tag_name">Kradeelav</a> (18+)</li>
+  <li><a href="https://www.kradeelav.com/" class="tag_name">Kradeelav (18+)</a></li>
   <li><a href="https://shilinhuang.com/" class="tag_name">Shilin</a></li>
   <li><a href="https://www.littlefoolery.com/" class="tag_name">Little Foolery</a></li>
   <li><a href="https://aokvisualartist.com/" class="tag_name">AOK Visual Artist</a></li>
