@@ -8,23 +8,25 @@ permalink: /links/
 ### My Other Sites/Projects
 
 <ul class="tag">
-   <li><a href="http://www.dnaartists.net/" class="tag_link">DnA Artists</a></li>
-   <li><a href="http://ladyknightcomic.tumblr.com" class="tag_link">Lady Knight Comic</a></li>
+  <li><a href="http://www.dnaartists.net/" class="tag_name">DnA Artists</a></li>
+  <li><a href="http://ladyknightcomic.tumblr.com" class="tag_name">Lady Knight Comic</a></li>
 </ul>
 
 ### Artists/Studios
 
-- [Kradeelav](https://www.kradeelav.com/) (18+)  
-- [Shilin](https://shilinhuang.com/)  
-- [Little Foolery](https://www.littlefoolery.com/)  
-- [AOK Visual Artist](https://aokvisualartist.com/)  
-- [Liliuhms](https://liliuhms.com/)  
-- [Skelesor](https://skelesor.com/)  
-- [Rengin](https://www.rengintumer.com/?utm_source=substack&utm_medium=email)  
-- [Lynn Nguyen](http://www.teeething.com/)  
-- [Jane Mai](https://www.janemai.co/)  
-- [Chira](https://www.jaydaitkaci.com/)
-- [Tomb of Null](https://www.tombofnull.art/)
+<ul class="tag">
+  <li><a href="https://www.kradeelav.com/" class="tag_name">Kradeelav</a> (18+)</li>
+  <li><a href="https://shilinhuang.com/" class="tag_name">Shilin</a></li>
+  <li><a href="https://www.littlefoolery.com/" class="tag_name">Little Foolery</a></li>
+  <li><a href="https://aokvisualartist.com/" class="tag_name">AOK Visual Artist</a></li>
+  <li><a href="https://liliuhms.com/" class="tag_name">Liliuhms</a></li>
+  <li><a href="https://skelesor.com/" class="tag_name">Skelesor</a></li>
+  <li><a href="https://www.rengintumer.com/" class="tag_name">Rengin</a></li>
+  <li><a href="http://www.teeething.com/" class="tag_name">Lynn Nguyen</a></li>
+  <li><a href="https://www.janemai.co/" class="tag_name">Jane Mai</a></li>
+  <li><a href="https://www.jaydaitkaci.com/" class="tag_name">Chira</a></li>
+  <li><a href="https://www.tombofnull.art/" class="tag_name">Tomb of Null</a></li>
+</ul>
         
 ### Webcomics
   
