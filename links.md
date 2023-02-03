@@ -7,8 +7,10 @@ permalink: /links/
 
 ### My Other Sites/Projects
 
-- [DnA Artists](http://www.dnaartists.net)  
-- [Lady Knight Comic](http://ladyknightcomic.tumblr.com)
+<ul class="tag">
+   <li><a href="http://www.dnaartists.net/" class="tag_link">DnA Artists</a></li>
+   <li><a href="http://ladyknightcomic.tumblr.com" class="tag_link">Lady Knight Comic</a></li>
+</ul>
 
 ### Artists/Studios
 
