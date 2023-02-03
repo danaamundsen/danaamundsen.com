@@ -6,8 +6,7 @@ img: /assets/img/portfolio/api_07.png
 alt: ["Design and Build Great Web APIs"]
 ---
 
-<a href="/assets/img/portfolio/api_01.png"><img src="/assets/img/portfolio/api_07.png" alt=""></a>
-<a href="/assets/img/portfolio/api_07.png"><img class="thumb" src="/assets/img/portfolio/api_07.png" alt=""></a>
+<a href="/assets/img/portfolio/api_07.png"><img src="/assets/img/portfolio/api_07.png" alt=""></a>
 <a href="/assets/img/portfolio/api_08.png"><img class="thumb" src="/assets/img/portfolio/api_08.png" alt=""></a>
 <a href="/assets/img/portfolio/api_09.png"><img class="thumb" src="/assets/img/portfolio/api_09.png" alt=""></a>
 
