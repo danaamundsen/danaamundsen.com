@@ -29,20 +29,22 @@ permalink: /links/
 </ul>
         
 ### Webcomics
-  
-- [Starfighter Comic](http://starfightercomic.com/) (18+)  
-- [Sfeer Theory](https://sfeertheory.com/)  
-- [Stand Still Stay Silent](http://www.sssscomic.com/)  
-- [Check Please](https://omgcheckplease.tumblr.com/)  
-- [Carciphona](https://carciphona.com/)  
-- [Cut Time Comic](https://www.cuttimecomic.com/)  
-- [Necropolis](https://necropoliscomic.tumblr.com/)  
-- [CosmoKnights](https://www.cosmoknights.space/book-one)  
-- [Amongst Us](https://amongstuscomic.com/)  
-- [Iron Crown](https://ironcrown.kradeelav.com/)  
-- [Lackadaisy](https://lackadaisy.foxprints.com/)  
-- [MAGE](https://magecomic.com/)  
-- [Ladies of the Knight](https://ladiesoftheknightcomic.com/)
+
+<ul class="tag">
+  <li><a href="http://starfightercomic.com/" class="tag_name">Starfighter Comic (18+)</a></li>
+  <li><a href="https://sfeertheory.com/" class="tag_name">Sfeer Theory</a></li>
+  <li><a href="http://www.sssscomic.com/" class="tag_name">Stand Still Stay Silent</a></li>
+  <li><a href="https://omgcheckplease.tumblr.com/" class="tag_name">Check Please</a></li>
+  <li><a href="https://carciphona.com/" class="tag_name">Carciphona</a></li>
+  <li><a href="https://www.cuttimecomic.com/" class="tag_name">Cut Time Comic</a></li>
+  <li><a href="https://necropoliscomic.tumblr.com/" class="tag_name">Necropolis</a></li>
+  <li><a href="https://www.cosmoknights.space/book-one" class="tag_name">CosmoKnights</a></li>
+  <li><a href="https://amongstuscomic.com/" class="tag_name">Amongst Us</a></li>
+  <li><a href="https://ironcrown.kradeelav.com/" class="tag_name">Iron Crown (18+)</a></li>
+  <li><a href="https://lackadaisy.foxprints.com/" class="tag_name">Lackadaisy</a></li>
+  <li><a href="https://magecomic.com/" class="tag_name">MAGE</a></li>
+  <li><a href="https://ladiesoftheknightcomic.com/" class="tag_name">Ladies of the Knight</a></li>
+</ul>
 
 ## Resources
 
