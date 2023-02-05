@@ -10,16 +10,20 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family={{ site.body_font }}&family={{ site.header_font }}&display=swap" rel="stylesheet">
 
 <!-- Meta Data -->
-<meta name="twitter:card" content="summary" />
+<!-- metadata -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@danaamundsen" />
 <meta property="og:url" content="{{ page.url }}" />
 {% if page.title %}
 <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
 {% else %}
 <meta name="twitter:title" content="{{ site.title }} | {{site.description}}">
 {% endif %}
-<meta property="og:description" content="{{ site.description }}" />
-{% if site.logo %}
-<meta property="og:image" content="{{ site.logo }}" />
+<meta property="og:description" content="Dana Amundsen creates a wide range of stories and illustrations. Dana writes humorous comics about her day to day life in black and white line drawings, and she also writes fantasy and historical graphic novels and creates illustrations in full color." />
+{% if page.image %}
+<meta name="twitter:image" content="{{ site.img_base_url}}{{ page.img }}">
+{% else %}
+<meta name="twitter:image" content="assets/img/preview.png">
 {% endif %}
 
 <!-- end custom head snippets -->
