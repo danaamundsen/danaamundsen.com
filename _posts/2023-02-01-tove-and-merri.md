@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lady Knight Illustration and New Website
+title: Lady Knight Illustration + New Website
 img: /post/2023/2023-02-01-tove-and-merri.png
 desc: ["An ink drawing of Tove and Merri"]
 tags: ["lady knight"]
