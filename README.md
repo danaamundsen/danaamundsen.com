@@ -1,2 +1,3 @@
 # danaamundsen.com
-Online residence of artist, illustrator, and web dev hobbyist Dana Amundsen
+
+This repository is a portfolio, blog, and hub for artist Dana Amundsen. It was built and maintained by the artist, who is a self-taught web developer.
