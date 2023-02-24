@@ -4,7 +4,7 @@ title: Oak and Suren
 img: /post/2023/2023-02-23-oak.png
 desc: ["A line drawing of Oak Greenbriar."]
 tags: ["tfota", "the stolen heir"]
-published: false
+published: true
 ---
 
 <a href="{{ site.img_base_url }}/post/2023/2023-02-23-oak.png" title="Click for full size"><img src="{{ site.img_base_url }}/post/2023/2023-02-23-oak.png" alt="A portrait of Oak Greenbriar in ink and screentones."></a>
