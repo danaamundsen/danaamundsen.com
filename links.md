@@ -26,6 +26,7 @@ permalink: /links/
   <li><a href="https://www.janemai.co/" class="tag_name">Jane Mai</a></li>
   <li><a href="https://www.jaydaitkaci.com/" class="tag_name">Chira</a></li>
   <li><a href="https://www.tombofnull.art/" class="tag_name">Tomb of Null</a></li>
+  <li><a href="https://cartoonist.coop/" class="tag_name">Cartoonist Cooperative</a></li>
 </ul>
         
 ### Webcomics
