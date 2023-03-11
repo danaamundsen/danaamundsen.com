@@ -3,7 +3,7 @@ layout: post
 title: vin and elend meetcute
 img: /post/2022/2022-07-01-vin-elend-meetcute.png
 desc: ["A comic page showing Vin and Elend meeding for the first time."]
-tags: ["cosmere", "comics", "mistborn"]
+tags: ["cosmere", "comics", "mistborn", "books"]
 published: true
 ---
 
