@@ -3,7 +3,7 @@ layout: post
 title: sabriel redraw
 img: /post/2022/2022-10-09-sabriel-redraw.png
 desc: ["A woman with ghostly white skin and a blunt back bob wielding a glowing sword."]
-tags: ["the old kingdom"]
+tags: ["the old kingdom", "books"]
 published: true
 ---
 
