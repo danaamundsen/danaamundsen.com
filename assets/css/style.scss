@@ -134,7 +134,7 @@ li a.menu_link, .dropbtn {
 li a.menu_link:hover, .dropdown:hover .dropbtn {
   font-style: italic;
   text-decoration: none;
-  color: {{ site.color2 }};
+  color: {{ site.font_color }};
 }
 
 .dropdown-content {
@@ -149,7 +149,7 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
   padding: 4px 8px;
   text-decoration: none;
   font-style: italic;
-  color: {{ site.background_color }};
+  color: {{ site.font_color }};
   background: {{ site.color2 }};
   border-radius: 5px;
   margin: 2px;
@@ -186,7 +186,7 @@ li a.tag_name {
 li a.tag_name:hover {
   text-decoration: none;
   background-color: {{ site.color2 }};
-  color: {{ site.background_color }};
+  color: {{ site.font_color }};
 }
 
 
