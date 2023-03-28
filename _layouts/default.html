@@ -52,8 +52,7 @@
         </section>
 
         <aside id="sidebar">
-          <iframe id='kofiframe' src='https://ko-fi.com/danaamundsen/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='danaamundsen'></iframe>
-<!-- social media links -->
+          <!-- social media links -->
         <p>
           <a href="/feed.xml" title="RSS"><img class="icon" src="{{ site.img_base_url }}/assets/icons/rss_white.png" width="24"></a>
           <a href="http://www.instagram.com/danaamundsen" title="Instagram"><img class="icon" src="{{ site.img_base_url }}/assets/icons/instagram_white.png" width="24"></a>
@@ -75,6 +74,15 @@
 
   </body>
   <!--plugins--> 
+  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('danaamundsen', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#ffffff',
+    'floating-chat.donateButton.text-color': '#323842'
+  });
+</script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script type="text/javascript" src="/assets/js/lightbox.js"></script>
     <link rel="stylesheet" href="/assets/css/lightbox.css">
