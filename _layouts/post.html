@@ -53,7 +53,7 @@ layout: default
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=200&h=200&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a>&nbsp;
+      <a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url=https://www.danaamundsen.com{{ site.img_base_url }}{{ post.img }}&w=200&h=200&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a>&nbsp;
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
