@@ -22,7 +22,7 @@ layout: default
 <ul class="folio">
 {% for post in site.posts limit:4 %}
 
-<li><a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url={{ site.img_base_url }}{{ post.img }}&w=200&h=200&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a></li>
+<li><a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://images.weserv.nl/?url=https://www.danaamundsen.com{{ site.img_base_url }}{{ post.img }}&w=200&h=200&fit=cover&output=png" alt="{{ post.desc }}" class="thumb"></a></li>
 
    {% endfor %}
 </ul>
