@@ -26,4 +26,4 @@ background_color: "#19101F"
 color1: "#74608F" #color of links and headers
 color2: "#51485D" #color of links on hover
 
-img_base_url: http://danaamundsen.site44.com
+img_base_url: assets/img
