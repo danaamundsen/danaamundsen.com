@@ -7,11 +7,11 @@ tags: ["cosmere", "mistborn", "books"]
 published: true
 ---
 
-![a digital painting of elend venture in his white uniform with a black cloak. the sky is red and ash is falling. he is backlit by the orange and red sun and mist flows around him. the painting has a very crisp and illustrated style with flatter colors and dramatic lighting.](http://www.icefairy.net/artlog/2022-07-18-elend-final.png)
+![a digital painting of elend venture in his white uniform with a black cloak. the sky is red and ash is falling. he is backlit by the orange and red sun and mist flows around him. the painting has a very crisp and illustrated style with flatter colors and dramatic lighting.](/assets/img/post/2022/2022-07-18-elend-final.png)
 
-[fullsize image](http://www.icefairy.net/artlog/2022-07-18-elend-final.png)
+[fullsize image](/assets/img/post/2022/2022-07-18-elend-final.png)
 
-![a sketch of the final image, only a few things were edited before it became the final painting.](http://www.icefairy.net/artlog/2022-07-18-elend.png)
+![a sketch of the final image, only a few things were edited before it became the final painting.](/assets/img/post/2022/2022-07-18-elend.png)
 
 *i love unrealistic dramatic lighting*
 
