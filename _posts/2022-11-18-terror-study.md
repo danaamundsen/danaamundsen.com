@@ -7,7 +7,7 @@ tags: ["studies", "polar exploration"]
 published: true 
 ---
 
-![a rough digital painting of two men walking in a corridor of ice in the arctic summer.](http://www.icefairy.net/artlog/2022-11-16-terror-study1.png)
+![a rough digital painting of two men walking in a corridor of ice in the arctic summer.](/assets/img/post/2022/2022-11-16-terror-study1.png)
 
 I watched AMC's *The Terror* and took some screenshots to do studies. I'm trying to workout how to render ice and snow, so I'm doing studies each morning. I start with two 5 min, then two 10 min and then a final 30 minute study. This is the best I've come out with so far.
 
@@ -18,7 +18,7 @@ Reference and timelapse under the cut.
 <!--more-->
 
 process  
-![an animated gif showing the process of the painting.](http://www.icefairy.net/artlog/2022-11-16-terror-study1.gif)
+![an animated gif showing the process of the painting.](/assets/img/post/2022/2022-11-16-terror-study1.gif)
 
 reference  
-![a screenshot from AMC's The Terror season 1. Francis Crozier stands in a corridor of ice, while one of his men follows behind him.](http://www.icefairy.net/artlog/2022-11-16-terror-study1-reference.png)
+![a screenshot from AMC's The Terror season 1. Francis Crozier stands in a corridor of ice, while one of his men follows behind him.](/assets/img/post/2022/2022-11-16-terror-study1-reference.png)
