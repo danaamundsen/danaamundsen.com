@@ -7,7 +7,7 @@ tags: ["victorian", "polar exploration"]
 published: true
 ---
 
-![An ink and watercolor portrait of a man with an upturned moustache in a double breasted suit.](http://www.icefairy.net/artlog/2022-11-23-amundsen-portrait.png)
+![An ink and watercolor portrait of a man with an upturned moustache in a double breasted suit.](assets/img/post/2022/2022-11-23-amundsen-portrait.png)
 
 This is the result of a kind of experiment that I think turned out okay. I typically work digitally but recently I have been drawn to watercolor and ink. I wanted to try mixing up my process a bit to see if I could get some interesting results.
 
@@ -19,9 +19,9 @@ Click the read more for a rundown of the process.
 
 This piece started digitally as a sketch. I thought working digitally to get the proportions and details worked out would be a good idea. I probably spent too much time worrying about the digital sketch though.
 
-![a digital sketch of the portrait](http://www.icefairy.net/artlog/2022-11-23-amundsen-portrait-sketch.png)
+![a digital sketch of the portrait](assets/img/post/2022/2022-11-23-amundsen-portrait-sketch.png)
 
-![a process gif showing the sketch in a timelapse.](http://www.icefairy.net/artlog/2022-11-23-amundsen-portrait-process.gif)
+![a process gif showing the sketch in a timelapse.](assets/img/post/2022/2022-11-23-amundsen-portrait-process.gif)
 
 I printed the sketch and taped it to an LED light board with a sheet of watercolor paper on top. Then I applied a light brown wash to the paper in watercolor and let it dry. Then I went in with a dip pen and permanent black ink. I haven't inked traditionally at all so there is a lot to improve on. I think the watercolor paper was too textured and a smoother paper would let the nib glide better. Halfway through inking I almost gave up because I wasn't happy with how it was looking. You can seen lots of areas where the lineweight is inconsistent or I just redrew my lines. But things started to improve when I added ink wash. This was, honestly, my favorite part. Except that my black ink hadn't fully dried in some places and it did start to feather. I will try to work on my patience.
 
