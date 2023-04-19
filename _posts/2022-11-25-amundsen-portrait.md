@@ -7,7 +7,7 @@ tags: ["victorian", "polar exploration"]
 published: true
 ---
 
-![An ink and watercolor portrait of a man with an upturned moustache in a double breasted suit.]({{ site.img_base_url }}/post/2022/2022-11-23-amundsen-portrait.png)
+![An ink and watercolor portrait of a man with an upturned moustache in a double breasted suit.](/assets/img/post/2022/2022-11-23-amundsen-portrait.png)
 
 This is the result of a kind of experiment that I think turned out okay. I typically work digitally but recently I have been drawn to watercolor and ink. I wanted to try mixing up my process a bit to see if I could get some interesting results.
 
@@ -19,7 +19,7 @@ Click the read more for a rundown of the process.
 
 This piece started digitally as a sketch. I thought working digitally to get the proportions and details worked out would be a good idea. I probably spent too much time worrying about the digital sketch though.
 
-![a digital sketch of the portrait]({{ site.img_base_url }}/post/2022/2022-11-23-amundsen-portrait-sketch.png)
+![a digital sketch of the portrait](/assets/img/post/2022/2022-11-23-amundsen-portrait-sketch.png)
 
 ![a process gif showing the sketch in a timelapse.](/assets/img/post/2022/2022-11-23-amundsen-portrait-process.gif)
 
