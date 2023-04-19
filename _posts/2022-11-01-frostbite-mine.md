@@ -7,9 +7,9 @@ tags: ["frostbite"]
 published: true
 ---
 
-![A full color illustration showing a man writing a letter at a simple wooden desk with a fountain pen while a woman drapes herself possessively over him. The man is weaering a button up shirt and vest, has a slightly hooked nose, heavy eyebrows, a mustache, and short brown wavy hair. The woman is wearing a black 1840's day dress with high neck and a white collar. Her hair is long, black, and undone. It falls down her back and onto the mans shoulder as she leans over him. Her skin is pale, her lips blue, and the tips of her fingers are blackened. A trail of ghostly snow blows away from her, as if she drifted into the room on a cold wind.](http://www.icefairy.net/artlog/2022-10-06-mine.png)
+![A full color illustration showing a man writing a letter at a simple wooden desk with a fountain pen while a woman drapes herself possessively over him. The man is weaering a button up shirt and vest, has a slightly hooked nose, heavy eyebrows, a mustache, and short brown wavy hair. The woman is wearing a black 1840's day dress with high neck and a white collar. Her hair is long, black, and undone. It falls down her back and onto the mans shoulder as she leans over him. Her skin is pale, her lips blue, and the tips of her fingers are blackened. A trail of ghostly snow blows away from her, as if she drifted into the room on a cold wind.](/assets/img/post/2022/2022-10-06-mine.png)
 
-[fullsize image](http://www.icefairy.net/artlog/2022-10-06-mine.png)
+[fullsize image](/assets/img/post/2022/2022-10-06-mine.png)
 
 A scientist on a polar expedition encounters a woman long thought to be dead in the arctic tundra. Is she real, or is he going mad in the long arctic winter? Either way, he is consumed by thoughts of her.
 
@@ -23,9 +23,9 @@ Sketches, references, and a progress video under the read more.
 
 Here are the sketches I did before I finished the lineart. You can see that it changed quite a bit, even from the sketches to the final piece. 
 
-![A sketch of the finished piece. The composition is similar but closer in on the figures.](http://www.icefairy.net/artlog/2022-10-06-mine-sketch1.png)
-![A second sketch. This is the final composition but I was still working on proportions of the face and body.](http://www.icefairy.net/artlog/2022-10-06-mine-sketch2.png)
-![The final sketch](http://www.icefairy.net/artlog/2022-10-06-mine-sketch3.png)
+![A sketch of the finished piece. The composition is similar but closer in on the figures.](/assets/img/post/2022/2022-10-06-mine-sketch1.png)
+![A second sketch. This is the final composition but I was still working on proportions of the face and body.](/assets/img/post/2022/2022-10-06-mine-sketch2.png)
+![The final sketch](/assets/img/post/2022/2022-10-06-mine-sketch3.png)
 
 And here is the image that i used as a reference for this illustration. I am still loving using the MET digital archives to find historical references.
 
