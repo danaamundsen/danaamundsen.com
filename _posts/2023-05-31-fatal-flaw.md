@@ -4,7 +4,7 @@ title: A Morbig Longing for the Picturesque at All Costs
 img: /post/2023/2023-02-27-fatal-flaw2.png
 desc: ["colorful illustration of people enjoying a summer picnic in the shade."]
 tags: ["the secret history", "books"]
-published: false
+published: true
 ---
 
 ![](assets/img/post/2023/2023-02-07-fatal-flaw2.png)
