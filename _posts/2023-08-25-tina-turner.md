@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Night With Tina Turner
-image: /post/2023/230825tina2.png
+img: /post/2023/230825tina2.png
 desc: ["a comic page showing Tina Turner singing."]
 tags: ["commission", "tina turner", "comics"]
 published: true
