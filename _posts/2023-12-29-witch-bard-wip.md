@@ -3,7 +3,7 @@ layout: post
 title: 2023 in review
 img: /post/2023/231114_witch-bard-wip.png
 desc: ["an ink drawing of an androgonous person drinking from a goblet in an unbuttoned victorian gaurd uniform."]
-tags: ["lady knight"]
+tags: ["witch and bard"]
 published: true
 ---
 
