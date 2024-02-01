@@ -3,7 +3,7 @@ layout: post
 title: Dabble in The Open Web
 img: /post/2023/2023-04-07_open-web_1.png
 desc: ["cover of the zine 'What is RSS?'"]
-tags: ["dabble", "zines", "open web"]
+tags: ["dabble", "zines"]
 published: true
 ---
 
