@@ -3,8 +3,8 @@ layout: post
 title: DnA at Detroit Zine Fest 2023
 img: /post/2023/2023-03-11_dzf2023_1.jpg
 desc: ["Dana sitting behind her table at Detroit Zine Fest 2023"]
-tags: ["events", "detroit zine fest 2023"]
-published: true
+tags: ["events"]
+published: false
 ---
 
 <a href="{{ site.img_base_url }}/post/2023/2023-03-11_dzf2023_1.jpg" title="Click for full size"><img src="{{ site.img_base_url }}/post/2023/2023-03-11_dzf2023_1.jpg" alt="Dana sitting behind her table at Detroit Zine Fest 2023"></a>
