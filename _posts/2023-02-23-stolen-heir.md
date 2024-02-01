@@ -3,7 +3,7 @@ layout: post
 title: Oak and Suren
 img: /post/2023/2023-02-23-oak.png
 desc: ["A line drawing of Oak Greenbriar."]
-tags: ["tfota", "the stolen heir", "books"]
+tags: ["holly black", "books"]
 published: true
 ---
 
