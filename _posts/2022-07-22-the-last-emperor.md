@@ -3,7 +3,7 @@ layout: post
 title: the last emperor
 img: /post/2022/2022-07-18-elend-final.png
 desc: ["a digital painting of elend venture in his white uniform with a black cloak."]
-tags: ["cosmere", "mistborn", "books"]
+tags: ["cosmere", "books"]
 published: true
 ---
 
