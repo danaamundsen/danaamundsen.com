@@ -3,7 +3,7 @@ layout: post
 title: mistborn
 img: /post/2022/2022-09-10-b2b.png
 desc: ["Vin and Elend from the Mistborn series standing back to back."]
-tags: ["cosmere", "mistborn", "books"]
+tags: ["cosmere", "books"]
 comments: true
 published: true
 ---
