@@ -115,12 +115,12 @@ ul.menu {
   font-family: {{ site.body_font }};
 }
 
-li.dropdown {
+li.menu_item {
   float: left;
   display: inline-block;
 }
 
-li a.menu_link, .dropbtn {
+li a.menu_link {
   display: block;
   padding: 8px 16px;
   text-decoration: none;
@@ -131,18 +131,13 @@ li a.menu_link, .dropbtn {
   margin: 5px;
 }
 
-li a.menu_link:hover, .dropdown:hover .dropbtn {
+li a.menu_link:hover {
   font-style: italic;
   text-decoration: none;
   color: {{ site.font_color }};
 }
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-}
-
-.dropdown-content a {
+li a.submenu_link {
   display: block;
   float: left;
   text-align: left;
@@ -155,15 +150,12 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
   margin: 2px;
 }
 
-.dropdown-content a:hover {
+li a.submenu_link:hover {
   font-style: italic;
   text-decoration: none;
   color: {{ site.color1 }};
-  }
-
-.dropdown:hover .dropdown-content {
-  display: block;
 }
+
 /* tags */
 
 ul.tag {
