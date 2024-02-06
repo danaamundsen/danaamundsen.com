@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+{% seo %}
+
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        
+          <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+          <!-- <h2>{{ site.description | default: site.github.project_tagline }}</h2> -->
+        
+<!-- site menu -->        
+        <ul class="menu">
+          <li class="dropdown"><a href="/my-work/" class="menu_link">My Work</a></li>
+          <li class="dropdown"><a href="/blog/" class="menu_link">Blog</a></li>
+          <li class="dropdown"><a href="/links/" class="menu_link">Links</a></li>
+        </ul>
+
+        <ul class="menu">
+          <li><a href="/blog/tags/" class="menu_link">Tags</a></li>
+          <li><a href="/blog/archive/" class="menu_link">Archive</a></li>
+        </ul>
+        
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          {{ content }}
+        </section>
+
+        <aside id="sidebar">
+          <!-- social media links -->
+        <p>
+          <a href="/feed.xml" title="RSS"><img class="icon" src="/assets/icons/rss_white.png" width="24"></a>
+          <a href="http://www.instagram.com/danaamundsen" title="Instagram"><img class="icon" src="/assets/icons/instagram_white.png" width="24"></a>
+          <a href="https://www.youtube.com/channel/UC0yu2u5YEM9pahKl5NYUegA" title="Youtube"><img class="icon" src="/assets/icons/youtube_white.png" width="24"></a>
+          <a rel="me" href="https://illo.social/@danaamundsen" title="Mastodon"><img class="icon" src="/assets/icons/mastodon_white.png" width="24"></a>
+        </p>
+          
+          <!-- credits -->
+        <p><p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a></p>
+        <br>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+        <br>Hosted on <a href="https://pages.github.com">GitHub Pages</a>
+        <br>Icons from <a href="https://icons8.com/">Icons8</a></p>
+          
+        </aside>
+      </div>
+    </div>
+
+  </body>
+  <!--plugins--> 
+  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('danaamundsen', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#ffffff',
+    'floating-chat.donateButton.text-color': '#323842'
+  });
+</script>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script type="text/javascript" src="/assets/js/lightbox.js"></script>
+    <link rel="stylesheet" href="/assets/css/lightbox.css">
+</html>
