@@ -4,7 +4,7 @@ title: DnA Updates
 img: /post/2024/240301_shirt.png
 desc: ["The design on the front of the DnA 2023 T-shirt."]
 tags: ["dna"]
-published: false
+published: true
 ---
 
 <a href="/assets/img/post/2024/240301_shirt.png"><img src="/assets/img/post/2024/240301_shirt.png"></a>  
