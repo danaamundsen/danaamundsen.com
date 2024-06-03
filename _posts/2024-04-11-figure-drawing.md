@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Figure Drawing Session
-img: /post/2024/240411_figuredrawing.png
+img: /post/2024/240411_figuredrawing.jpg
 desc: ["a graphite figure drawing"]
 tags: ["studies"]
 published: true
