@@ -15,7 +15,7 @@ layout: default
 </ul>
 
 <hr></hr>
-<h1>Latest Posts</h1>
+<h1>Latest Blog Posts</h1>
 
 <ul class="folio">
 {% for post in site.posts limit:4 %}
@@ -26,8 +26,13 @@ layout: default
 </ul>
 <p><center><a href="/blog/" title="All blog posts">Click here to see all blog posts.</a></center></p>
 
-<a class="mastodon-feed"
+<hr></hr>
+<h1>Latest Mastodon Posts</h1>
+
+<div id="masto">
+  <a class="mastodon-feed"
    href="https://illo.social/@danaamundsen"
    data-toot-limit="4"
   data-exclude-replies="yes"
    >follow me into the Fediverse</a>
+</div>
