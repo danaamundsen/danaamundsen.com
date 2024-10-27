@@ -9,7 +9,7 @@
   border-bottom: 1px solid #ccc;
   padding: 1rem;
   float: left;
-  display: block;
+  display: inline-block;
 }
 
 /* Posting user. */
